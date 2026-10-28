@@ -9,3 +9,7 @@ __pycache__/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Temporary match execution logs
+*.log
+official_kit/practice_logs/*.log

@@ -1,0 +1,3218 @@
+{
+  "exp_vs_basic": [
+    {
+      "seed": 100,
+      "bots": {
+        "1": {
+          "score": 16743.45542999211,
+          "collections": 52,
+          "collected_value": 16743.455429992107,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.230358123779297,
+          "max_ms": 108.28733444213867,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 212,
+            "COLLECT": 52,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 17677.44894374395,
+          "collections": 52,
+          "collected_value": 17967.04169407959,
+          "deposits": 37,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 5,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.139837106068929,
+          "max_ms": 65.57583808898926,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 206,
+            "COLLECT": 57,
+            "DEPOSIT": 37,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 101,
+      "bots": {
+        "1": {
+          "score": 15164.99965617489,
+          "collections": 49,
+          "collected_value": 15164.99965617489,
+          "deposits": 33,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9434094429016113,
+          "max_ms": 104.63213920593262,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 216,
+            "COLLECT": 49,
+            "DEPOSIT": 33,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 12904.703354209163,
+          "collections": 39,
+          "collected_value": 12904.703354209163,
+          "deposits": 26,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 13,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.0356736183166504,
+          "max_ms": 60.08195877075195,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 222,
+            "COLLECT": 52,
+            "DEPOSIT": 26,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 102,
+      "bots": {
+        "1": {
+          "score": 25510.2499505837,
+          "collections": 68,
+          "collected_value": 25510.2499505837,
+          "deposits": 55,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.8453796704610188,
+          "max_ms": 96.29940986633301,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 175,
+            "COLLECT": 68,
+            "DEPOSIT": 55,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 17869.80729791356,
+          "collections": 51,
+          "collected_value": 18369.80729791356,
+          "deposits": 39,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 9,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.0789950688680012,
+          "max_ms": 64.09740447998047,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 201,
+            "COLLECT": 60,
+            "DEPOSIT": 39,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 103,
+      "bots": {
+        "1": {
+          "score": 17283.349862448587,
+          "collections": 56,
+          "collected_value": 17283.349862448587,
+          "deposits": 36,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.084608872731527,
+          "max_ms": 95.51572799682617,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 207,
+            "COLLECT": 56,
+            "DEPOSIT": 36,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 19277.11455903341,
+          "collections": 58,
+          "collected_value": 19777.11455903341,
+          "deposits": 40,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 7,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.1092241605122883,
+          "max_ms": 48.38871955871582,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 195,
+            "COLLECT": 65,
+            "DEPOSIT": 40,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 104,
+      "bots": {
+        "1": {
+          "score": 16619.651467110918,
+          "collections": 51,
+          "collected_value": 16619.651467110914,
+          "deposits": 35,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.215627829233805,
+          "max_ms": 124.8922348022461,
+          "actions": {
+            "HOLD": 9,
+            "TRAVERSE": 205,
+            "COLLECT": 51,
+            "DEPOSIT": 35,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 15732.95076951235,
+          "collections": 41,
+          "collected_value": 15732.95076951235,
+          "deposits": 33,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 4,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.220555305480957,
+          "max_ms": 66.98155403137207,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 222,
+            "COLLECT": 45,
+            "DEPOSIT": 33,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 105,
+      "bots": {
+        "1": {
+          "score": 17315.519070227318,
+          "collections": 53,
+          "collected_value": 17315.519070227318,
+          "deposits": 38,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.098394234975179,
+          "max_ms": 131.911039352417,
+          "actions": {
+            "HOLD": 4,
+            "TRAVERSE": 205,
+            "COLLECT": 53,
+            "DEPOSIT": 38,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 16155.1605788523,
+          "collections": 50,
+          "collected_value": 16655.1605788523,
+          "deposits": 35,
+          "captures": 1,
+          "loot_lost": 500.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.079421043395996,
+          "max_ms": 55.39560317993164,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 211,
+            "COLLECT": 50,
+            "DEPOSIT": 35,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 106,
+      "bots": {
+        "1": {
+          "score": 20063.942201300433,
+          "collections": 57,
+          "collected_value": 20063.942201300433,
+          "deposits": 42,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.8620912233988445,
+          "max_ms": 95.69668769836426,
+          "actions": {
+            "HOLD": 8,
+            "TRAVERSE": 193,
+            "COLLECT": 57,
+            "DEPOSIT": 42,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 18105.41913724911,
+          "collections": 55,
+          "collected_value": 18458.572741013093,
+          "deposits": 38,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.100776195526123,
+          "max_ms": 65.15765190124512,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 205,
+            "COLLECT": 55,
+            "DEPOSIT": 38,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 107,
+      "bots": {
+        "1": {
+          "score": 21806.20587399219,
+          "collections": 67,
+          "collected_value": 21806.205873992192,
+          "deposits": 51,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.191957632700602,
+          "max_ms": 105.48830032348633,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 179,
+            "COLLECT": 67,
+            "DEPOSIT": 51,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 16776.44722106632,
+          "collections": 52,
+          "collected_value": 16776.447221066323,
+          "deposits": 41,
+          "captures": 1,
+          "loot_lost": 0.0,
+          "invalid_actions": 21,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.2257885932922363,
+          "max_ms": 67.81554222106934,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 173,
+            "COLLECT": 73,
+            "DEPOSIT": 41,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 108,
+      "bots": {
+        "1": {
+          "score": 22516.585327468732,
+          "collections": 75,
+          "collected_value": 22516.585327468732,
+          "deposits": 47,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9208741188049316,
+          "max_ms": 114.63475227355957,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 178,
+            "COLLECT": 75,
+            "DEPOSIT": 47,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 17154.709632291288,
+          "collections": 50,
+          "collected_value": 17154.709632291288,
+          "deposits": 36,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 2,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.0820706685384114,
+          "max_ms": 60.94861030578613,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 212,
+            "COLLECT": 52,
+            "DEPOSIT": 36,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 109,
+      "bots": {
+        "1": {
+          "score": 20145.629170336415,
+          "collections": 58,
+          "collected_value": 20145.62917033641,
+          "deposits": 43,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.049302260080973,
+          "max_ms": 113.75999450683594,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 198,
+            "COLLECT": 58,
+            "DEPOSIT": 43,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14357.09945879393,
+          "collections": 43,
+          "collected_value": 14857.09945879393,
+          "deposits": 29,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 4,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.1387316385904949,
+          "max_ms": 65.93132019042969,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 224,
+            "COLLECT": 47,
+            "DEPOSIT": 29,
+            "OTHER": 0
+          }
+        }
+      }
+    }
+  ],
+  "basic_vs_exp": [
+    {
+      "seed": 100,
+      "bots": {
+        "1": {
+          "score": 17074.000780832717,
+          "collections": 55,
+          "collected_value": 17574.000780832717,
+          "deposits": 35,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.291496753692627,
+          "max_ms": 99.09510612487793,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 210,
+            "COLLECT": 55,
+            "DEPOSIT": 35,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 13809.198004237012,
+          "collections": 46,
+          "collected_value": 13809.19800423701,
+          "deposits": 28,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 3,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.0183205604553223,
+          "max_ms": 64.1627311706543,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 222,
+            "COLLECT": 49,
+            "DEPOSIT": 28,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 101,
+      "bots": {
+        "1": {
+          "score": 14349.122124138463,
+          "collections": 41,
+          "collected_value": 14349.122124138463,
+          "deposits": 30,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.1647542317708333,
+          "max_ms": 89.92266654968262,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 229,
+            "COLLECT": 41,
+            "DEPOSIT": 30,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 13549.297349147302,
+          "collections": 41,
+          "collected_value": 13549.297349147304,
+          "deposits": 29,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 6,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.8557349840799968,
+          "max_ms": 63.77387046813965,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 221,
+            "COLLECT": 47,
+            "DEPOSIT": 29,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 102,
+      "bots": {
+        "1": {
+          "score": 18754.179493028532,
+          "collections": 58,
+          "collected_value": 19254.179493028532,
+          "deposits": 38,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.2441484133402507,
+          "max_ms": 97.59688377380371,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 204,
+            "COLLECT": 58,
+            "DEPOSIT": 38,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 20769.842147583247,
+          "collections": 59,
+          "collected_value": 20769.842147583247,
+          "deposits": 43,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 5,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.8208972613016765,
+          "max_ms": 62.47544288635254,
+          "actions": {
+            "HOLD": 4,
+            "TRAVERSE": 189,
+            "COLLECT": 64,
+            "DEPOSIT": 43,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 103,
+      "bots": {
+        "1": {
+          "score": 17919.31805823723,
+          "collections": 60,
+          "collected_value": 17919.31805823723,
+          "deposits": 37,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.2592490514119465,
+          "max_ms": 98.07133674621582,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 203,
+            "COLLECT": 60,
+            "DEPOSIT": 37,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 19128.76755676018,
+          "collections": 60,
+          "collected_value": 19128.76755676018,
+          "deposits": 41,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 3,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9175378481547039,
+          "max_ms": 76.77721977233887,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 193,
+            "COLLECT": 63,
+            "DEPOSIT": 41,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 104,
+      "bots": {
+        "1": {
+          "score": 18219.64170523308,
+          "collections": 60,
+          "collected_value": 18719.64170523308,
+          "deposits": 38,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.3048132260640461,
+          "max_ms": 85.60848236083984,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 202,
+            "COLLECT": 60,
+            "DEPOSIT": 38,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 16385.993502455083,
+          "collections": 45,
+          "collected_value": 16385.993502455083,
+          "deposits": 35,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 3,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.318119208017985,
+          "max_ms": 122.88546562194824,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 214,
+            "COLLECT": 48,
+            "DEPOSIT": 35,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 105,
+      "bots": {
+        "1": {
+          "score": 17424.541286195017,
+          "collections": 50,
+          "collected_value": 17924.541286195017,
+          "deposits": 36,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.2471270561218262,
+          "max_ms": 108.56938362121582,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 214,
+            "COLLECT": 50,
+            "DEPOSIT": 36,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14837.875742708027,
+          "collections": 49,
+          "collected_value": 14837.875742708027,
+          "deposits": 32,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9098234176635742,
+          "max_ms": 73.8379955291748,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 217,
+            "COLLECT": 49,
+            "DEPOSIT": 32,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 106,
+      "bots": {
+        "1": {
+          "score": 16550.30625496546,
+          "collections": 54,
+          "collected_value": 17050.30625496546,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.1742631594340007,
+          "max_ms": 97.75471687316895,
+          "actions": {
+            "HOLD": 16,
+            "TRAVERSE": 196,
+            "COLLECT": 54,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14621.512581075294,
+          "collections": 43,
+          "collected_value": 14621.512581075294,
+          "deposits": 32,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 10,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.7061750094095867,
+          "max_ms": 66.82324409484863,
+          "actions": {
+            "HOLD": 19,
+            "TRAVERSE": 196,
+            "COLLECT": 53,
+            "DEPOSIT": 32,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 107,
+      "bots": {
+        "1": {
+          "score": 22204.038802662864,
+          "collections": 62,
+          "collected_value": 22204.038802662864,
+          "deposits": 49,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.3369464874267578,
+          "max_ms": 104.37417030334473,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 189,
+            "COLLECT": 62,
+            "DEPOSIT": 49,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 21003.569006126003,
+          "collections": 62,
+          "collected_value": 21003.569006126003,
+          "deposits": 51,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 12,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9593922297159831,
+          "max_ms": 80.28697967529297,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 173,
+            "COLLECT": 74,
+            "DEPOSIT": 51,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 108,
+      "bots": {
+        "1": {
+          "score": 18174.72400763932,
+          "collections": 53,
+          "collected_value": 19174.724007639317,
+          "deposits": 37,
+          "captures": 1,
+          "loot_lost": 500.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.2355883916219075,
+          "max_ms": 97.97310829162598,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 203,
+            "COLLECT": 53,
+            "DEPOSIT": 37,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 18603.194189932674,
+          "collections": 56,
+          "collected_value": 18603.194189932674,
+          "deposits": 39,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 5,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9141093889872234,
+          "max_ms": 72.71718978881836,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 197,
+            "COLLECT": 61,
+            "DEPOSIT": 39,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 109,
+      "bots": {
+        "1": {
+          "score": 16432.768258697266,
+          "collections": 47,
+          "collected_value": 16432.768258697266,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.2104241053263347,
+          "max_ms": 94.28930282592773,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 219,
+            "COLLECT": 47,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 16350.761524336036,
+          "collections": 56,
+          "collected_value": 16350.761524336036,
+          "deposits": 36,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 6,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9326456387837727,
+          "max_ms": 77.6364803314209,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 200,
+            "COLLECT": 62,
+            "DEPOSIT": 36,
+            "OTHER": 0
+          }
+        }
+      }
+    }
+  ],
+  "exp_solo": [
+    {
+      "seed": 100,
+      "bots": {
+        "1": {
+          "score": 17463.4990908932,
+          "collections": 55,
+          "collected_value": 17463.4990908932,
+          "deposits": 37,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.2515050570170083,
+          "max_ms": 153.50794792175293,
+          "actions": {
+            "HOLD": 4,
+            "TRAVERSE": 204,
+            "COLLECT": 55,
+            "DEPOSIT": 37,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 101,
+      "bots": {
+        "1": {
+          "score": 17602.407345034815,
+          "collections": 53,
+          "collected_value": 17602.40734503482,
+          "deposits": 40,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.3722338676452637,
+          "max_ms": 177.05798149108887,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 205,
+            "COLLECT": 53,
+            "DEPOSIT": 40,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 102,
+      "bots": {
+        "1": {
+          "score": 24730.97613941784,
+          "collections": 79,
+          "collected_value": 24730.976139417835,
+          "deposits": 52,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.220125993092855,
+          "max_ms": 162.19687461853027,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 166,
+            "COLLECT": 79,
+            "DEPOSIT": 52,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 103,
+      "bots": {
+        "1": {
+          "score": 18284.508457157244,
+          "collections": 55,
+          "collected_value": 18284.508457157248,
+          "deposits": 38,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.3005040486653647,
+          "max_ms": 155.66158294677734,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 205,
+            "COLLECT": 55,
+            "DEPOSIT": 38,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 104,
+      "bots": {
+        "1": {
+          "score": 19543.005710608057,
+          "collections": 60,
+          "collected_value": 20043.005710608057,
+          "deposits": 40,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.4805625279744468,
+          "max_ms": 197.6182460784912,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 199,
+            "COLLECT": 60,
+            "DEPOSIT": 40,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 105,
+      "bots": {
+        "1": {
+          "score": 15907.471187608584,
+          "collections": 56,
+          "collected_value": 15907.471187608586,
+          "deposits": 33,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.5011420249938965,
+          "max_ms": 194.32830810546875,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 209,
+            "COLLECT": 56,
+            "DEPOSIT": 33,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 106,
+      "bots": {
+        "1": {
+          "score": 19918.717870399534,
+          "collections": 68,
+          "collected_value": 19918.717870399534,
+          "deposits": 42,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.48611847559611,
+          "max_ms": 226.29523277282715,
+          "actions": {
+            "HOLD": 7,
+            "TRAVERSE": 183,
+            "COLLECT": 68,
+            "DEPOSIT": 42,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 107,
+      "bots": {
+        "1": {
+          "score": 26264.250344775566,
+          "collections": 81,
+          "collected_value": 26264.25034477557,
+          "deposits": 61,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.37864096959432,
+          "max_ms": 197.71289825439453,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 155,
+            "COLLECT": 81,
+            "DEPOSIT": 61,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 108,
+      "bots": {
+        "1": {
+          "score": 19211.84674414114,
+          "collections": 56,
+          "collected_value": 19211.84674414114,
+          "deposits": 40,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.386456330617269,
+          "max_ms": 171.83756828308105,
+          "actions": {
+            "HOLD": 6,
+            "TRAVERSE": 198,
+            "COLLECT": 56,
+            "DEPOSIT": 40,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 109,
+      "bots": {
+        "1": {
+          "score": 23364.553875439207,
+          "collections": 69,
+          "collected_value": 23364.55387543921,
+          "deposits": 49,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.3291746775309243,
+          "max_ms": 177.2611141204834,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 179,
+            "COLLECT": 69,
+            "DEPOSIT": 49,
+            "OTHER": 0
+          }
+        }
+      }
+    }
+  ],
+  "baseline_vs_basic": [
+    {
+      "seed": 100,
+      "bots": {
+        "1": {
+          "score": 17566.968881736237,
+          "collections": 53,
+          "collected_value": 17566.968881736237,
+          "deposits": 36,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.3710076014200845,
+          "max_ms": 112.24961280822754,
+          "actions": {
+            "HOLD": 7,
+            "TRAVERSE": 204,
+            "COLLECT": 53,
+            "DEPOSIT": 36,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14810.043267149598,
+          "collections": 46,
+          "collected_value": 15083.453043970154,
+          "deposits": 31,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 1,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.306585470835368,
+          "max_ms": 68.33434104919434,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 222,
+            "COLLECT": 47,
+            "DEPOSIT": 31,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 101,
+      "bots": {
+        "1": {
+          "score": 15463.747749768963,
+          "collections": 51,
+          "collected_value": 15463.747749768963,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.337985038757324,
+          "max_ms": 132.5693130493164,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 212,
+            "COLLECT": 51,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 13359.495633895485,
+          "collections": 38,
+          "collected_value": 13359.495633895485,
+          "deposits": 27,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 7,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.205906867980957,
+          "max_ms": 63.46940994262695,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 228,
+            "COLLECT": 45,
+            "DEPOSIT": 27,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 102,
+      "bots": {
+        "1": {
+          "score": 23680.92909933784,
+          "collections": 66,
+          "collected_value": 23680.92909933784,
+          "deposits": 49,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9184422492980957,
+          "max_ms": 117.28048324584961,
+          "actions": {
+            "HOLD": 5,
+            "TRAVERSE": 180,
+            "COLLECT": 66,
+            "DEPOSIT": 49,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 19263.506854392876,
+          "collections": 56,
+          "collected_value": 19763.506854392872,
+          "deposits": 40,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 5,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.056050459543864,
+          "max_ms": 61.46740913391113,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 199,
+            "COLLECT": 61,
+            "DEPOSIT": 40,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 103,
+      "bots": {
+        "1": {
+          "score": 15987.717627317861,
+          "collections": 58,
+          "collected_value": 15987.717627317861,
+          "deposits": 33,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.0251123110453286,
+          "max_ms": 92.91958808898926,
+          "actions": {
+            "HOLD": 6,
+            "TRAVERSE": 203,
+            "COLLECT": 58,
+            "DEPOSIT": 33,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 15752.738087654594,
+          "collections": 48,
+          "collected_value": 15752.738087654592,
+          "deposits": 32,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 11,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.1116607983907063,
+          "max_ms": 64.28670883178711,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 209,
+            "COLLECT": 59,
+            "DEPOSIT": 32,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 104,
+      "bots": {
+        "1": {
+          "score": 15029.320556445477,
+          "collections": 51,
+          "collected_value": 15029.320556445477,
+          "deposits": 31,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.1898436546325684,
+          "max_ms": 127.99882888793945,
+          "actions": {
+            "HOLD": 10,
+            "TRAVERSE": 208,
+            "COLLECT": 51,
+            "DEPOSIT": 31,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14156.105528205886,
+          "collections": 44,
+          "collected_value": 14656.105528205888,
+          "deposits": 31,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 8,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.1153523127237956,
+          "max_ms": 68.39346885681152,
+          "actions": {
+            "HOLD": 8,
+            "TRAVERSE": 209,
+            "COLLECT": 52,
+            "DEPOSIT": 31,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 105,
+      "bots": {
+        "1": {
+          "score": 16505.915012662303,
+          "collections": 51,
+          "collected_value": 16505.915012662306,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.0520615577697754,
+          "max_ms": 108.39438438415527,
+          "actions": {
+            "HOLD": 8,
+            "TRAVERSE": 207,
+            "COLLECT": 51,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 13668.81031319474,
+          "collections": 45,
+          "collected_value": 13668.810313194737,
+          "deposits": 28,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 6,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.0691181818644206,
+          "max_ms": 55.49478530883789,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 221,
+            "COLLECT": 51,
+            "DEPOSIT": 28,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 106,
+      "bots": {
+        "1": {
+          "score": 14158.678155863567,
+          "collections": 49,
+          "collected_value": 14158.678155863568,
+          "deposits": 29,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.022871971130371,
+          "max_ms": 106.72688484191895,
+          "actions": {
+            "HOLD": 14,
+            "TRAVERSE": 208,
+            "COLLECT": 49,
+            "DEPOSIT": 29,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 20112.089766498524,
+          "collections": 63,
+          "collected_value": 20112.089766498528,
+          "deposits": 41,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.0415887832641602,
+          "max_ms": 53.59768867492676,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 196,
+            "COLLECT": 63,
+            "DEPOSIT": 41,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 107,
+      "bots": {
+        "1": {
+          "score": 20825.33536504959,
+          "collections": 61,
+          "collected_value": 20825.33536504959,
+          "deposits": 45,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.2603480021158853,
+          "max_ms": 94.38157081604004,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 194,
+            "COLLECT": 61,
+            "DEPOSIT": 45,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 19133.67044069287,
+          "collections": 57,
+          "collected_value": 20053.00425038619,
+          "deposits": 44,
+          "captures": 1,
+          "loot_lost": 419.3338096933233,
+          "invalid_actions": 12,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.1971394220987956,
+          "max_ms": 58.92777442932129,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 174,
+            "COLLECT": 69,
+            "DEPOSIT": 44,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 108,
+      "bots": {
+        "1": {
+          "score": 17235.45634095464,
+          "collections": 53,
+          "collected_value": 17235.456340954635,
+          "deposits": 38,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.079908847808838,
+          "max_ms": 106.66894912719727,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 207,
+            "COLLECT": 53,
+            "DEPOSIT": 38,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14430.191238768675,
+          "collections": 44,
+          "collected_value": 14930.191238768675,
+          "deposits": 30,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 3,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.1406294504801433,
+          "max_ms": 70.84345817565918,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 223,
+            "COLLECT": 47,
+            "DEPOSIT": 30,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 109,
+      "bots": {
+        "1": {
+          "score": 17202.13682380376,
+          "collections": 59,
+          "collected_value": 17202.13682380376,
+          "deposits": 35,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.0012386639912925,
+          "max_ms": 99.58577156066895,
+          "actions": {
+            "HOLD": 16,
+            "TRAVERSE": 190,
+            "COLLECT": 59,
+            "DEPOSIT": 35,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 12569.765054975518,
+          "collections": 38,
+          "collected_value": 12569.765054975516,
+          "deposits": 26,
+          "captures": 2,
+          "loot_lost": 0.0,
+          "invalid_actions": 3,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.0648790995279949,
+          "max_ms": 58.30526351928711,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 204,
+            "COLLECT": 41,
+            "DEPOSIT": 26,
+            "OTHER": 0
+          }
+        }
+      }
+    }
+  ],
+  "basic_vs_baseline": [
+    {
+      "seed": 100,
+      "bots": {
+        "1": {
+          "score": 17814.93647302669,
+          "collections": 56,
+          "collected_value": 17814.93647302669,
+          "deposits": 37,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.3811683654785156,
+          "max_ms": 103.82556915283203,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 207,
+            "COLLECT": 56,
+            "DEPOSIT": 37,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 13708.829244898816,
+          "collections": 45,
+          "collected_value": 13708.829244898816,
+          "deposits": 28,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 2,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.129479249318441,
+          "max_ms": 60.526371002197266,
+          "actions": {
+            "HOLD": 10,
+            "TRAVERSE": 215,
+            "COLLECT": 47,
+            "DEPOSIT": 28,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 101,
+      "bots": {
+        "1": {
+          "score": 13125.042911112614,
+          "collections": 42,
+          "collected_value": 14060.51233537487,
+          "deposits": 27,
+          "captures": 1,
+          "loot_lost": 500.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.3986388842264812,
+          "max_ms": 128.83329391479492,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 222,
+            "COLLECT": 42,
+            "DEPOSIT": 27,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14023.29516915951,
+          "collections": 45,
+          "collected_value": 14023.295169159512,
+          "deposits": 30,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 8,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.1147449811299643,
+          "max_ms": 86.14587783813477,
+          "actions": {
+            "HOLD": 4,
+            "TRAVERSE": 213,
+            "COLLECT": 53,
+            "DEPOSIT": 30,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 102,
+      "bots": {
+        "1": {
+          "score": 22244.231777048954,
+          "collections": 74,
+          "collected_value": 22446.73709573742,
+          "deposits": 47,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.3015063603719075,
+          "max_ms": 112.69664764404297,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 179,
+            "COLLECT": 74,
+            "DEPOSIT": 47,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 15389.357618739046,
+          "collections": 49,
+          "collected_value": 15389.357618739048,
+          "deposits": 32,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 8,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.1202596028645835,
+          "max_ms": 87.35799789428711,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 209,
+            "COLLECT": 57,
+            "DEPOSIT": 32,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 103,
+      "bots": {
+        "1": {
+          "score": 18469.99305641656,
+          "collections": 58,
+          "collected_value": 18469.99305641656,
+          "deposits": 38,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.4562781651814778,
+          "max_ms": 128.18455696105957,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 204,
+            "COLLECT": 58,
+            "DEPOSIT": 38,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 16748.00715850399,
+          "collections": 59,
+          "collected_value": 16748.00715850399,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 1,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.138372262318929,
+          "max_ms": 71.58970832824707,
+          "actions": {
+            "HOLD": 6,
+            "TRAVERSE": 200,
+            "COLLECT": 60,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 104,
+      "bots": {
+        "1": {
+          "score": 18647.01957880762,
+          "collections": 58,
+          "collected_value": 18647.01957880762,
+          "deposits": 39,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.4599903424580891,
+          "max_ms": 141.03078842163086,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 203,
+            "COLLECT": 58,
+            "DEPOSIT": 39,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 15465.101919012413,
+          "collections": 46,
+          "collected_value": 15465.101919012413,
+          "deposits": 33,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 5,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.104978561401367,
+          "max_ms": 86.14635467529297,
+          "actions": {
+            "HOLD": 5,
+            "TRAVERSE": 211,
+            "COLLECT": 51,
+            "DEPOSIT": 33,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 105,
+      "bots": {
+        "1": {
+          "score": 17446.950530328046,
+          "collections": 52,
+          "collected_value": 17446.950530328046,
+          "deposits": 36,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.2230698267618816,
+          "max_ms": 95.03340721130371,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 212,
+            "COLLECT": 52,
+            "DEPOSIT": 36,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14949.461568981782,
+          "collections": 51,
+          "collected_value": 14949.461568981782,
+          "deposits": 31,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 3,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9270992279052734,
+          "max_ms": 66.81370735168457,
+          "actions": {
+            "HOLD": 4,
+            "TRAVERSE": 211,
+            "COLLECT": 54,
+            "DEPOSIT": 31,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 106,
+      "bots": {
+        "1": {
+          "score": 16474.750828935274,
+          "collections": 57,
+          "collected_value": 16474.750828935277,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.308306058247884,
+          "max_ms": 116.50776863098145,
+          "actions": {
+            "HOLD": 19,
+            "TRAVERSE": 190,
+            "COLLECT": 57,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14865.592587580926,
+          "collections": 43,
+          "collected_value": 14865.592587580926,
+          "deposits": 31,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 7,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9258228937784831,
+          "max_ms": 83.16946029663086,
+          "actions": {
+            "HOLD": 25,
+            "TRAVERSE": 194,
+            "COLLECT": 50,
+            "DEPOSIT": 31,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 107,
+      "bots": {
+        "1": {
+          "score": 22935.197607334285,
+          "collections": 65,
+          "collected_value": 23331.074883165853,
+          "deposits": 51,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.3974293073018391,
+          "max_ms": 115.35096168518066,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 184,
+            "COLLECT": 65,
+            "DEPOSIT": 51,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 22656.65600122535,
+          "collections": 67,
+          "collected_value": 22656.65600122535,
+          "deposits": 51,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 13,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9661577542622883,
+          "max_ms": 79.47993278503418,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 166,
+            "COLLECT": 80,
+            "DEPOSIT": 51,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 108,
+      "bots": {
+        "1": {
+          "score": 18624.996317025085,
+          "collections": 55,
+          "collected_value": 19549.621673010908,
+          "deposits": 39,
+          "captures": 1,
+          "loot_lost": 424.62535598582315,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.2396669387817383,
+          "max_ms": 108.06584358215332,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 198,
+            "COLLECT": 55,
+            "DEPOSIT": 39,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 20205.002348672628,
+          "collections": 64,
+          "collected_value": 20205.002348672628,
+          "deposits": 42,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 5,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.7737348874409993,
+          "max_ms": 72.70193099975586,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 186,
+            "COLLECT": 69,
+            "DEPOSIT": 42,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 109,
+      "bots": {
+        "1": {
+          "score": 16207.930799434636,
+          "collections": 47,
+          "collected_value": 16707.930799434638,
+          "deposits": 33,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.2037221590677898,
+          "max_ms": 90.08145332336426,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 219,
+            "COLLECT": 47,
+            "DEPOSIT": 33,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 18441.797741834027,
+          "collections": 59,
+          "collected_value": 18441.797741834027,
+          "deposits": 38,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 4,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9174504280090332,
+          "max_ms": 66.63870811462402,
+          "actions": {
+            "HOLD": 6,
+            "TRAVERSE": 193,
+            "COLLECT": 63,
+            "DEPOSIT": 38,
+            "OTHER": 0
+          }
+        }
+      }
+    }
+  ],
+  "baseline_solo": [
+    {
+      "seed": 100,
+      "bots": {
+        "1": {
+          "score": 15473.466620441299,
+          "collections": 57,
+          "collected_value": 15473.466620441297,
+          "deposits": 32,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.253438631693522,
+          "max_ms": 167.15335845947266,
+          "actions": {
+            "HOLD": 5,
+            "TRAVERSE": 206,
+            "COLLECT": 57,
+            "DEPOSIT": 32,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 101,
+      "bots": {
+        "1": {
+          "score": 14706.531419407844,
+          "collections": 49,
+          "collected_value": 14706.531419407844,
+          "deposits": 31,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.5687901178995767,
+          "max_ms": 197.8776454925537,
+          "actions": {
+            "HOLD": 5,
+            "TRAVERSE": 215,
+            "COLLECT": 49,
+            "DEPOSIT": 31,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 102,
+      "bots": {
+        "1": {
+          "score": 21664.049520965018,
+          "collections": 68,
+          "collected_value": 21664.049520965014,
+          "deposits": 45,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.366936206817627,
+          "max_ms": 182.62147903442383,
+          "actions": {
+            "HOLD": 10,
+            "TRAVERSE": 177,
+            "COLLECT": 68,
+            "DEPOSIT": 45,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 103,
+      "bots": {
+        "1": {
+          "score": 17877.853871621905,
+          "collections": 58,
+          "collected_value": 17877.8538716219,
+          "deposits": 38,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.30212132136027,
+          "max_ms": 181.3504695892334,
+          "actions": {
+            "HOLD": 9,
+            "TRAVERSE": 195,
+            "COLLECT": 58,
+            "DEPOSIT": 38,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 104,
+      "bots": {
+        "1": {
+          "score": 19572.043038714408,
+          "collections": 60,
+          "collected_value": 19572.043038714408,
+          "deposits": 40,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.266028722127279,
+          "max_ms": 174.21841621398926,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 199,
+            "COLLECT": 60,
+            "DEPOSIT": 40,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 105,
+      "bots": {
+        "1": {
+          "score": 16453.288392078466,
+          "collections": 53,
+          "collected_value": 16453.288392078466,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.2457544008890786,
+          "max_ms": 158.43820571899414,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 212,
+            "COLLECT": 53,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 106,
+      "bots": {
+        "1": {
+          "score": 19567.175067061682,
+          "collections": 67,
+          "collected_value": 19567.175067061682,
+          "deposits": 42,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.27631409962972,
+          "max_ms": 216.57156944274902,
+          "actions": {
+            "HOLD": 10,
+            "TRAVERSE": 181,
+            "COLLECT": 67,
+            "DEPOSIT": 42,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 107,
+      "bots": {
+        "1": {
+          "score": 25710.584561559554,
+          "collections": 79,
+          "collected_value": 25710.58456155955,
+          "deposits": 61,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.229435443878174,
+          "max_ms": 192.91114807128906,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 159,
+            "COLLECT": 79,
+            "DEPOSIT": 61,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 108,
+      "bots": {
+        "1": {
+          "score": 17608.372589510105,
+          "collections": 51,
+          "collected_value": 17608.3725895101,
+          "deposits": 36,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.245062987009684,
+          "max_ms": 168.14732551574707,
+          "actions": {
+            "HOLD": 16,
+            "TRAVERSE": 197,
+            "COLLECT": 51,
+            "DEPOSIT": 36,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 109,
+      "bots": {
+        "1": {
+          "score": 19462.342598309762,
+          "collections": 61,
+          "collected_value": 19462.342598309766,
+          "deposits": 40,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.35644261042277,
+          "max_ms": 186.95640563964844,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 197,
+            "COLLECT": 61,
+            "DEPOSIT": 40,
+            "OTHER": 0
+          }
+        }
+      }
+    }
+  ],
+  "exp_vs_baseline": [
+    {
+      "seed": 100,
+      "bots": {
+        "1": {
+          "score": 18024.722650339176,
+          "collections": 56,
+          "collected_value": 18024.722650339176,
+          "deposits": 37,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.221971352895101,
+          "max_ms": 113.60836029052734,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 204,
+            "COLLECT": 56,
+            "DEPOSIT": 37,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14779.558081428464,
+          "collections": 47,
+          "collected_value": 14779.558081428464,
+          "deposits": 31,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.086304028828939,
+          "max_ms": 71.06876373291016,
+          "actions": {
+            "HOLD": 9,
+            "TRAVERSE": 213,
+            "COLLECT": 47,
+            "DEPOSIT": 31,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 101,
+      "bots": {
+        "1": {
+          "score": 14948.266397542697,
+          "collections": 43,
+          "collected_value": 14948.266397542697,
+          "deposits": 32,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.3513944943745932,
+          "max_ms": 147.35102653503418,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 223,
+            "COLLECT": 43,
+            "DEPOSIT": 32,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 13860.486912047922,
+          "collections": 47,
+          "collected_value": 13860.48691204792,
+          "deposits": 30,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 6,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.96638822555542,
+          "max_ms": 63.48252296447754,
+          "actions": {
+            "HOLD": 13,
+            "TRAVERSE": 204,
+            "COLLECT": 53,
+            "DEPOSIT": 30,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 102,
+      "bots": {
+        "1": {
+          "score": 17433.400863641,
+          "collections": 51,
+          "collected_value": 17433.400863641,
+          "deposits": 36,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.171962261199951,
+          "max_ms": 118.96562576293945,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 213,
+            "COLLECT": 51,
+            "DEPOSIT": 36,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 21372.53078190383,
+          "collections": 68,
+          "collected_value": 21372.530781903828,
+          "deposits": 44,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 8,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.8055939674377441,
+          "max_ms": 56.822776794433594,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 177,
+            "COLLECT": 76,
+            "DEPOSIT": 44,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 103,
+      "bots": {
+        "1": {
+          "score": 20588.791048680112,
+          "collections": 60,
+          "collected_value": 20588.79104868011,
+          "deposits": 43,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.2530372937520347,
+          "max_ms": 129.0290355682373,
+          "actions": {
+            "HOLD": 4,
+            "TRAVERSE": 193,
+            "COLLECT": 60,
+            "DEPOSIT": 43,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 18380.00022756761,
+          "collections": 59,
+          "collected_value": 18380.00022756761,
+          "deposits": 38,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 2,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.020543416341146,
+          "max_ms": 71.52366638183594,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 201,
+            "COLLECT": 61,
+            "DEPOSIT": 38,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 104,
+      "bots": {
+        "1": {
+          "score": 17382.517171262814,
+          "collections": 49,
+          "collected_value": 17382.517171262814,
+          "deposits": 37,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.0273335774739585,
+          "max_ms": 111.79232597351074,
+          "actions": {
+            "HOLD": 5,
+            "TRAVERSE": 209,
+            "COLLECT": 49,
+            "DEPOSIT": 37,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14645.378484836518,
+          "collections": 47,
+          "collected_value": 14645.37848483652,
+          "deposits": 31,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 4,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.8211229642232258,
+          "max_ms": 59.72027778625488,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 216,
+            "COLLECT": 51,
+            "DEPOSIT": 31,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 105,
+      "bots": {
+        "1": {
+          "score": 16258.577084918315,
+          "collections": 54,
+          "collected_value": 16258.577084918315,
+          "deposits": 33,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.125075658162435,
+          "max_ms": 113.41023445129395,
+          "actions": {
+            "HOLD": 4,
+            "TRAVERSE": 209,
+            "COLLECT": 54,
+            "DEPOSIT": 33,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14688.870207234566,
+          "collections": 49,
+          "collected_value": 14688.870207234568,
+          "deposits": 30,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 5,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9962048530578613,
+          "max_ms": 72.46780395507812,
+          "actions": {
+            "HOLD": 4,
+            "TRAVERSE": 212,
+            "COLLECT": 54,
+            "DEPOSIT": 30,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 106,
+      "bots": {
+        "1": {
+          "score": 18927.97680542577,
+          "collections": 61,
+          "collected_value": 18927.97680542577,
+          "deposits": 40,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.193575700124105,
+          "max_ms": 125.1223087310791,
+          "actions": {
+            "HOLD": 17,
+            "TRAVERSE": 182,
+            "COLLECT": 61,
+            "DEPOSIT": 40,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 15802.268584361547,
+          "collections": 49,
+          "collected_value": 15802.268584361547,
+          "deposits": 35,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 5,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.0129776000976562,
+          "max_ms": 58.338165283203125,
+          "actions": {
+            "HOLD": 18,
+            "TRAVERSE": 193,
+            "COLLECT": 54,
+            "DEPOSIT": 35,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 107,
+      "bots": {
+        "1": {
+          "score": 23184.037965535143,
+          "collections": 69,
+          "collected_value": 23184.037965535143,
+          "deposits": 55,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.032501697540283,
+          "max_ms": 126.27315521240234,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 176,
+            "COLLECT": 69,
+            "DEPOSIT": 55,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 20599.40301646318,
+          "collections": 64,
+          "collected_value": 20599.40301646318,
+          "deposits": 46,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 7,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.8608387311299641,
+          "max_ms": 70.50108909606934,
+          "actions": {
+            "HOLD": 8,
+            "TRAVERSE": 175,
+            "COLLECT": 71,
+            "DEPOSIT": 46,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 108,
+      "bots": {
+        "1": {
+          "score": 16239.52752405853,
+          "collections": 47,
+          "collected_value": 16239.527524058529,
+          "deposits": 35,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.1639021237691245,
+          "max_ms": 123.53682518005371,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 217,
+            "COLLECT": 47,
+            "DEPOSIT": 35,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 18057.234787318946,
+          "collections": 56,
+          "collected_value": 18057.234787318946,
+          "deposits": 37,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 6,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.866428057352702,
+          "max_ms": 60.907840728759766,
+          "actions": {
+            "HOLD": 7,
+            "TRAVERSE": 194,
+            "COLLECT": 62,
+            "DEPOSIT": 37,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 109,
+      "bots": {
+        "1": {
+          "score": 17335.38124013302,
+          "collections": 55,
+          "collected_value": 17835.38124013302,
+          "deposits": 36,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.6730473836263022,
+          "max_ms": 133.90183448791504,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 208,
+            "COLLECT": 55,
+            "DEPOSIT": 36,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 17630.04908079552,
+          "collections": 51,
+          "collected_value": 17630.049080795525,
+          "deposits": 36,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 8,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.3950894673665366,
+          "max_ms": 66.17498397827148,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 203,
+            "COLLECT": 59,
+            "DEPOSIT": 36,
+            "OTHER": 0
+          }
+        }
+      }
+    }
+  ],
+  "baseline_vs_exp": [
+    {
+      "seed": 100,
+      "bots": {
+        "1": {
+          "score": 15936.847977839132,
+          "collections": 50,
+          "collected_value": 15936.847977839132,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.1976312001546225,
+          "max_ms": 119.24314498901367,
+          "actions": {
+            "HOLD": 5,
+            "TRAVERSE": 211,
+            "COLLECT": 50,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14639.28228332074,
+          "collections": 46,
+          "collected_value": 14639.28228332074,
+          "deposits": 30,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 1,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.0536319414774575,
+          "max_ms": 72.62277603149414,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 220,
+            "COLLECT": 47,
+            "DEPOSIT": 30,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 101,
+      "bots": {
+        "1": {
+          "score": 15514.890705751173,
+          "collections": 45,
+          "collected_value": 15514.890705751171,
+          "deposits": 32,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.3725509643554688,
+          "max_ms": 114.34745788574219,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 221,
+            "COLLECT": 45,
+            "DEPOSIT": 32,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 15452.754085445224,
+          "collections": 47,
+          "collected_value": 15452.754085445222,
+          "deposits": 35,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 4,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.197690804799398,
+          "max_ms": 72.48377799987793,
+          "actions": {
+            "HOLD": 4,
+            "TRAVERSE": 210,
+            "COLLECT": 51,
+            "DEPOSIT": 35,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 102,
+      "bots": {
+        "1": {
+          "score": 16547.053662657006,
+          "collections": 50,
+          "collected_value": 16547.053662657003,
+          "deposits": 36,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.337303956349691,
+          "max_ms": 116.51086807250977,
+          "actions": {
+            "HOLD": 2,
+            "TRAVERSE": 212,
+            "COLLECT": 50,
+            "DEPOSIT": 36,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 22805.89487958081,
+          "collections": 63,
+          "collected_value": 22805.89487958081,
+          "deposits": 48,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 7,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.0466486612955728,
+          "max_ms": 69.01788711547852,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 182,
+            "COLLECT": 70,
+            "DEPOSIT": 48,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 103,
+      "bots": {
+        "1": {
+          "score": 19772.152697315254,
+          "collections": 61,
+          "collected_value": 19772.15269731525,
+          "deposits": 41,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.1492131551106772,
+          "max_ms": 108.33072662353516,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 197,
+            "COLLECT": 61,
+            "DEPOSIT": 41,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 18618.494325183598,
+          "collections": 57,
+          "collected_value": 18618.494325183594,
+          "deposits": 40,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 3,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.098266283671061,
+          "max_ms": 91.25208854675293,
+          "actions": {
+            "HOLD": 4,
+            "TRAVERSE": 196,
+            "COLLECT": 60,
+            "DEPOSIT": 40,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 104,
+      "bots": {
+        "1": {
+          "score": 17935.811381550662,
+          "collections": 55,
+          "collected_value": 17935.811381550662,
+          "deposits": 37,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.3502206802368164,
+          "max_ms": 118.8199520111084,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 205,
+            "COLLECT": 55,
+            "DEPOSIT": 37,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 14678.449729838794,
+          "collections": 45,
+          "collected_value": 14678.449729838796,
+          "deposits": 31,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 8,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.2309287389119468,
+          "max_ms": 66.67733192443848,
+          "actions": {
+            "HOLD": 3,
+            "TRAVERSE": 213,
+            "COLLECT": 53,
+            "DEPOSIT": 31,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 105,
+      "bots": {
+        "1": {
+          "score": 16448.9989448244,
+          "collections": 55,
+          "collected_value": 16448.998944824405,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.156360149383545,
+          "max_ms": 120.95499038696289,
+          "actions": {
+            "HOLD": 6,
+            "TRAVERSE": 205,
+            "COLLECT": 55,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 16330.431129907713,
+          "collections": 51,
+          "collected_value": 16330.431129907713,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 2,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.938927173614502,
+          "max_ms": 64.4078254699707,
+          "actions": {
+            "HOLD": 9,
+            "TRAVERSE": 204,
+            "COLLECT": 53,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 106,
+      "bots": {
+        "1": {
+          "score": 16564.428925982036,
+          "collections": 57,
+          "collected_value": 16564.428925982043,
+          "deposits": 35,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.9779260953267415,
+          "max_ms": 101.81212425231934,
+          "actions": {
+            "HOLD": 16,
+            "TRAVERSE": 192,
+            "COLLECT": 57,
+            "DEPOSIT": 35,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 15860.747263325426,
+          "collections": 48,
+          "collected_value": 15860.747263325426,
+          "deposits": 34,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 5,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 1.83485746383667,
+          "max_ms": 60.996055603027344,
+          "actions": {
+            "HOLD": 27,
+            "TRAVERSE": 186,
+            "COLLECT": 53,
+            "DEPOSIT": 34,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 107,
+      "bots": {
+        "1": {
+          "score": 23804.738297676427,
+          "collections": 72,
+          "collected_value": 23804.738297676424,
+          "deposits": 59,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.216815948486328,
+          "max_ms": 136.6727352142334,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 168,
+            "COLLECT": 72,
+            "DEPOSIT": 59,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 20396.3370647408,
+          "collections": 58,
+          "collected_value": 20396.337064740805,
+          "deposits": 48,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 11,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.093501091003418,
+          "max_ms": 69.72169876098633,
+          "actions": {
+            "HOLD": 0,
+            "TRAVERSE": 183,
+            "COLLECT": 69,
+            "DEPOSIT": 48,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 108,
+      "bots": {
+        "1": {
+          "score": 18249.14633681576,
+          "collections": 59,
+          "collected_value": 18249.14633681576,
+          "deposits": 37,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.3288901646931968,
+          "max_ms": 127.47478485107422,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 203,
+            "COLLECT": 59,
+            "DEPOSIT": 37,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 19807.375067401717,
+          "collections": 52,
+          "collected_value": 19807.375067401717,
+          "deposits": 41,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 3,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.158497969309489,
+          "max_ms": 81.79450035095215,
+          "actions": {
+            "HOLD": 1,
+            "TRAVERSE": 203,
+            "COLLECT": 55,
+            "DEPOSIT": 41,
+            "OTHER": 0
+          }
+        }
+      }
+    },
+    {
+      "seed": 109,
+      "bots": {
+        "1": {
+          "score": 20225.50719447337,
+          "collections": 63,
+          "collected_value": 20225.50719447337,
+          "deposits": 42,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.2538105646769204,
+          "max_ms": 138.0302906036377,
+          "actions": {
+            "HOLD": 6,
+            "TRAVERSE": 189,
+            "COLLECT": 63,
+            "DEPOSIT": 42,
+            "OTHER": 0
+          }
+        },
+        "2": {
+          "score": 15141.436952992994,
+          "collections": 51,
+          "collected_value": 15141.436952992994,
+          "deposits": 31,
+          "captures": 0,
+          "loot_lost": 0.0,
+          "invalid_actions": 0,
+          "misses": 0,
+          "disqualified": false,
+          "avg_ms": 2.106200853983561,
+          "max_ms": 70.8613395690918,
+          "actions": {
+            "HOLD": 7,
+            "TRAVERSE": 211,
+            "COLLECT": 51,
+            "DEPOSIT": 31,
+            "OTHER": 0
+          }
+        }
+      }
+    }
+  ]
+}

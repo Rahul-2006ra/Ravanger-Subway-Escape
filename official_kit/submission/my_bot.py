@@ -423,14 +423,8 @@ def decide_for_runner(runner, tick, nodes, neighbors, drops, police, safehouses,
             if collectible_value <= 0:
                 continue
                 
-            # Condition C: Distance from drop to its nearest safehouse
-            target_sh = drop.get("target_safehouse_node")
-            if target_sh in safehouse_distances and d_node in safehouse_distances[target_sh][0]:
-                safe_node = target_sh
-                safe_cost = safehouse_distances[target_sh][0][d_node]
-                safe_hops = safehouse_distances[target_sh][1][d_node]
-            else:
-                safe_node, safe_hops, safe_cost = nearest_safehouse_from(d_node)
+            # Condition C: Distance from drop to nearest accessible safehouse (any safehouse is valid)
+            safe_node, safe_hops, safe_cost = nearest_safehouse_from(d_node)
                 
             if safe_node is None:
                 continue
@@ -440,17 +434,30 @@ def decide_for_runner(runner, tick, nodes, neighbors, drops, police, safehouses,
             if total_trip_duration > remaining_match_ticks:
                 continue
                 
-            # Condition E: Opponent contestation discount (accounts for opponent proximity)
+            # Condition E: Two-Leg Decay Modeling (Brief Rule 2: Carried inventory decays exponentially)
+            # The collected drop continues to decay during the Leg 2 return trip to the safehouse
+            delivered_drop_value = collectible_value * math.exp(-decay_rate * safe_hops)
+            
+            # If already carrying loot, detouring to collect this drop delays banking existing loot
+            detour_ticks = hops_leg1 + 1
+            carried_decay_loss = carrying * (1.0 - math.exp(-decay_rate * detour_ticks)) if carrying > 0 else 0.0
+            net_delivered_value = delivered_drop_value - carried_decay_loss
+            if net_delivered_value <= 0:
+                continue
+
+            # Condition F: Opponent contestation discount (accounts for opponent proximity)
             opp_hops = tracker.get_estimated_opponent_arrival(d_node, neighbors, tick) if tracker else INF
             contest_discount = compute_contestation_discount(hops_leg1, opp_hops, is_bot2=is_bot2)
-            effective_value = collectible_value * contest_discount
+            effective_value = net_delivered_value * contest_discount
             
-            # Condition F: Immediate step safety factor (prevents target lock on temporarily blocked drops)
+            # Condition G: Immediate step safety factor (prevents target lock on temporarily blocked drops)
             first_step = first_step_to.get(d_node)
             step_clear = (first_step is not None and not is_step_unsafe(here, first_step, nodes, police))
             safety_multiplier = 1.0 if step_clear else 0.35
             
-            opportunity_score = (effective_value / (cost_leg1 + 1.0)) * safety_multiplier
+            # Total trip path resistance (incorporating return leg dynamic track risk)
+            trip_path_cost = cost_leg1 + 0.5 * safe_cost + 1.0
+            opportunity_score = (effective_value / trip_path_cost) * safety_multiplier
             
             if opportunity_score > best_opportunity_score:
                 best_opportunity_score = opportunity_score

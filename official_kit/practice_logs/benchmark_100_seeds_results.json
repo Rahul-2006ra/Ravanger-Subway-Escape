@@ -1,0 +1,4606 @@
+{
+  "pos1_candidate_as_bot1": [
+    {
+      "seed": 100,
+      "bots": {
+        "1": {
+          "score": 18024.722650339176,
+          "collections": 56,
+          "collected_value": 18024.722650339176,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.3324076334635415
+        },
+        "2": {
+          "score": 14779.558081428464,
+          "collections": 47,
+          "collected_value": 14779.558081428464,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.178389231363932
+        }
+      }
+    },
+    {
+      "seed": 101,
+      "bots": {
+        "1": {
+          "score": 14948.266397542697,
+          "collections": 43,
+          "collected_value": 14948.266397542697,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2173706690470376
+        },
+        "2": {
+          "score": 13860.486912047922,
+          "collections": 47,
+          "collected_value": 13860.48691204792,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 6,
+          "avg_ms": 2.4164565404256186
+        }
+      }
+    },
+    {
+      "seed": 102,
+      "bots": {
+        "1": {
+          "score": 17433.400863641,
+          "collections": 51,
+          "collected_value": 17433.400863641,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.009302775065104
+        },
+        "2": {
+          "score": 21372.53078190383,
+          "collections": 68,
+          "collected_value": 21372.530781903828,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 8,
+          "avg_ms": 1.8087100982666016
+        }
+      }
+    },
+    {
+      "seed": 103,
+      "bots": {
+        "1": {
+          "score": 20588.791048680112,
+          "collections": 60,
+          "collected_value": 20588.79104868011,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1172459920247397
+        },
+        "2": {
+          "score": 18380.00022756761,
+          "collections": 59,
+          "collected_value": 18380.00022756761,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.93009614944458
+        }
+      }
+    },
+    {
+      "seed": 104,
+      "bots": {
+        "1": {
+          "score": 17382.517171262814,
+          "collections": 49,
+          "collected_value": 17382.517171262814,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.072136402130127
+        },
+        "2": {
+          "score": 14645.378484836518,
+          "collections": 47,
+          "collected_value": 14645.37848483652,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.8612337112426758
+        }
+      }
+    },
+    {
+      "seed": 105,
+      "bots": {
+        "1": {
+          "score": 16258.577084918315,
+          "collections": 54,
+          "collected_value": 16258.577084918315,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1270394325256348
+        },
+        "2": {
+          "score": 14688.870207234566,
+          "collections": 49,
+          "collected_value": 14688.870207234568,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 1.8588916460673015
+        }
+      }
+    },
+    {
+      "seed": 106,
+      "bots": {
+        "1": {
+          "score": 18927.97680542577,
+          "collections": 61,
+          "collected_value": 18927.97680542577,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8866197268168132
+        },
+        "2": {
+          "score": 15802.268584361547,
+          "collections": 49,
+          "collected_value": 15802.268584361547,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 1.827850341796875
+        }
+      }
+    },
+    {
+      "seed": 107,
+      "bots": {
+        "1": {
+          "score": 23184.037965535143,
+          "collections": 69,
+          "collected_value": 23184.037965535143,
+          "deposits": 55,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.002382278442383
+        },
+        "2": {
+          "score": 20599.40301646318,
+          "collections": 64,
+          "collected_value": 20599.40301646318,
+          "deposits": 46,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 1.7798391977945964
+        }
+      }
+    },
+    {
+      "seed": 108,
+      "bots": {
+        "1": {
+          "score": 16239.52752405853,
+          "collections": 47,
+          "collected_value": 16239.527524058529,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.3279261589050293
+        },
+        "2": {
+          "score": 18057.234787318946,
+          "collections": 56,
+          "collected_value": 18057.234787318946,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 6,
+          "avg_ms": 1.9926746686299641
+        }
+      }
+    },
+    {
+      "seed": 109,
+      "bots": {
+        "1": {
+          "score": 17335.38124013302,
+          "collections": 55,
+          "collected_value": 17835.38124013302,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1361025174458823
+        },
+        "2": {
+          "score": 17630.04908079552,
+          "collections": 51,
+          "collected_value": 17630.049080795525,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 8,
+          "avg_ms": 2.041832605997721
+        }
+      }
+    },
+    {
+      "seed": 110,
+      "bots": {
+        "1": {
+          "score": 18975.832896391028,
+          "collections": 48,
+          "collected_value": 18975.832896391028,
+          "deposits": 42,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.208125591278076
+        },
+        "2": {
+          "score": 17517.51027266612,
+          "collections": 52,
+          "collected_value": 17517.510272666117,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.011854648590088
+        }
+      }
+    },
+    {
+      "seed": 111,
+      "bots": {
+        "1": {
+          "score": 17277.188343557238,
+          "collections": 53,
+          "collected_value": 17277.188343557238,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1408446629842124
+        },
+        "2": {
+          "score": 14651.326312448655,
+          "collections": 49,
+          "collected_value": 14651.326312448653,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.976913611094157
+        }
+      }
+    },
+    {
+      "seed": 112,
+      "bots": {
+        "1": {
+          "score": 20284.337314668202,
+          "collections": 60,
+          "collected_value": 20284.337314668202,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1048331260681152
+        },
+        "2": {
+          "score": 12600.82812627065,
+          "collections": 44,
+          "collected_value": 12600.82812627065,
+          "deposits": 26,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 2.0418167114257812
+        }
+      }
+    },
+    {
+      "seed": 113,
+      "bots": {
+        "1": {
+          "score": 19598.131125711065,
+          "collections": 60,
+          "collected_value": 19598.131125711065,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0299736658732095
+        },
+        "2": {
+          "score": 19653.22688684499,
+          "collections": 60,
+          "collected_value": 19653.22688684499,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.8820985158284504
+        }
+      }
+    },
+    {
+      "seed": 114,
+      "bots": {
+        "1": {
+          "score": 18894.3858266951,
+          "collections": 59,
+          "collected_value": 18894.3858266951,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.04071044921875
+        },
+        "2": {
+          "score": 14696.461834711008,
+          "collections": 43,
+          "collected_value": 14696.461834711008,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.9615602493286133
+        }
+      }
+    },
+    {
+      "seed": 115,
+      "bots": {
+        "1": {
+          "score": 17660.347347706105,
+          "collections": 55,
+          "collected_value": 17660.347347706105,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0789130528767905
+        },
+        "2": {
+          "score": 13428.991512412586,
+          "collections": 48,
+          "collected_value": 13428.991512412584,
+          "deposits": 28,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.9724949200948079
+        }
+      }
+    },
+    {
+      "seed": 116,
+      "bots": {
+        "1": {
+          "score": 18937.690644262257,
+          "collections": 61,
+          "collected_value": 18937.690644262257,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.045746644337972
+        },
+        "2": {
+          "score": 16570.13948762483,
+          "collections": 48,
+          "collected_value": 16570.13948762483,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 1.9007301330566406
+        }
+      }
+    },
+    {
+      "seed": 117,
+      "bots": {
+        "1": {
+          "score": 17810.921817371098,
+          "collections": 53,
+          "collected_value": 18310.9218173711,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1662680308024087
+        },
+        "2": {
+          "score": 22836.894360341215,
+          "collections": 68,
+          "collected_value": 22836.89436034122,
+          "deposits": 48,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8772013982137044
+        }
+      }
+    },
+    {
+      "seed": 118,
+      "bots": {
+        "1": {
+          "score": 19730.21810461722,
+          "collections": 62,
+          "collected_value": 19730.218104617223,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.107705275217692
+        },
+        "2": {
+          "score": 16880.759066130962,
+          "collections": 52,
+          "collected_value": 16880.759066130962,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 2.025482654571533
+        }
+      }
+    },
+    {
+      "seed": 119,
+      "bots": {
+        "1": {
+          "score": 15299.859702777287,
+          "collections": 45,
+          "collected_value": 15299.859702777287,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.176621754964193
+        },
+        "2": {
+          "score": 17039.869081527973,
+          "collections": 55,
+          "collected_value": 17039.869081527973,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8381508191426594
+        }
+      }
+    },
+    {
+      "seed": 120,
+      "bots": {
+        "1": {
+          "score": 13491.058009246759,
+          "collections": 43,
+          "collected_value": 13491.058009246759,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1683367093404136
+        },
+        "2": {
+          "score": 13047.831698506836,
+          "collections": 40,
+          "collected_value": 13047.831698506836,
+          "deposits": 27,
+          "captures": 0,
+          "invalid_actions": 6,
+          "avg_ms": 1.9033408164978027
+        }
+      }
+    },
+    {
+      "seed": 121,
+      "bots": {
+        "1": {
+          "score": 18730.46866484188,
+          "collections": 54,
+          "collected_value": 18730.46866484188,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1724184354146323
+        },
+        "2": {
+          "score": 17932.401559716945,
+          "collections": 54,
+          "collected_value": 17932.401559716942,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 2.0029568672180176
+        }
+      }
+    },
+    {
+      "seed": 122,
+      "bots": {
+        "1": {
+          "score": 17238.774350255702,
+          "collections": 52,
+          "collected_value": 17238.774350255702,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1367812156677246
+        },
+        "2": {
+          "score": 13955.12818709839,
+          "collections": 46,
+          "collected_value": 13955.12818709839,
+          "deposits": 28,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 1.959843635559082
+        }
+      }
+    },
+    {
+      "seed": 123,
+      "bots": {
+        "1": {
+          "score": 20510.742954966503,
+          "collections": 62,
+          "collected_value": 20510.7429549665,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.037693659464518
+        },
+        "2": {
+          "score": 16679.92263774458,
+          "collections": 54,
+          "collected_value": 16679.922637744585,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 1.926397482554118
+        }
+      }
+    },
+    {
+      "seed": 124,
+      "bots": {
+        "1": {
+          "score": 11316.081915963847,
+          "collections": 37,
+          "collected_value": 11316.081915963845,
+          "deposits": 23,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.010180950164795
+        },
+        "2": {
+          "score": 12603.55748911397,
+          "collections": 42,
+          "collected_value": 12603.55748911397,
+          "deposits": 26,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 2.1349294980367026
+        }
+      }
+    },
+    {
+      "seed": 125,
+      "bots": {
+        "1": {
+          "score": 21939.644223458847,
+          "collections": 67,
+          "collected_value": 21939.644223458843,
+          "deposits": 49,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9597895940144856
+        },
+        "2": {
+          "score": 15240.548112078664,
+          "collections": 47,
+          "collected_value": 15240.54811207866,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 26,
+          "avg_ms": 1.7833137512207031
+        }
+      }
+    },
+    {
+      "seed": 126,
+      "bots": {
+        "1": {
+          "score": 14242.174393113302,
+          "collections": 41,
+          "collected_value": 14242.174393113302,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1999200185139975
+        },
+        "2": {
+          "score": 15694.41371083164,
+          "collections": 44,
+          "collected_value": 15694.41371083164,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.9461774826049805
+        }
+      }
+    },
+    {
+      "seed": 127,
+      "bots": {
+        "1": {
+          "score": 19093.111350309377,
+          "collections": 62,
+          "collected_value": 19093.111350309377,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.035672664642334
+        },
+        "2": {
+          "score": 17207.307702287922,
+          "collections": 50,
+          "collected_value": 17207.307702287922,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 11,
+          "avg_ms": 1.9644347826639812
+        }
+      }
+    },
+    {
+      "seed": 128,
+      "bots": {
+        "1": {
+          "score": 16150.753444655307,
+          "collections": 54,
+          "collected_value": 16150.753444655309,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1147521336873374
+        },
+        "2": {
+          "score": 14980.240971592057,
+          "collections": 47,
+          "collected_value": 14980.240971592055,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 1.9409656524658203
+        }
+      }
+    },
+    {
+      "seed": 129,
+      "bots": {
+        "1": {
+          "score": 13631.945998410323,
+          "collections": 39,
+          "collected_value": 13631.945998410321,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0398775736490884
+        },
+        "2": {
+          "score": 13379.500291854974,
+          "collections": 39,
+          "collected_value": 13379.500291854976,
+          "deposits": 28,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8971975644429524
+        }
+      }
+    },
+    {
+      "seed": 130,
+      "bots": {
+        "1": {
+          "score": 20845.372967542604,
+          "collections": 70,
+          "collected_value": 20845.372967542604,
+          "deposits": 45,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9957979520161946
+        },
+        "2": {
+          "score": 19356.11762082752,
+          "collections": 52,
+          "collected_value": 19356.11762082752,
+          "deposits": 42,
+          "captures": 0,
+          "invalid_actions": 15,
+          "avg_ms": 2.090752919514974
+        }
+      }
+    },
+    {
+      "seed": 131,
+      "bots": {
+        "1": {
+          "score": 17001.3046712295,
+          "collections": 48,
+          "collected_value": 17001.3046712295,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.098069190979004
+        },
+        "2": {
+          "score": 16434.04033109233,
+          "collections": 51,
+          "collected_value": 16434.04033109233,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9308288892110188
+        }
+      }
+    },
+    {
+      "seed": 132,
+      "bots": {
+        "1": {
+          "score": 19725.606113976806,
+          "collections": 58,
+          "collected_value": 19725.606113976806,
+          "deposits": 42,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1607033411661782
+        },
+        "2": {
+          "score": 16465.115777155625,
+          "collections": 45,
+          "collected_value": 16465.115777155625,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 8,
+          "avg_ms": 1.8480197588602703
+        }
+      }
+    },
+    {
+      "seed": 133,
+      "bots": {
+        "1": {
+          "score": 17523.30542643593,
+          "collections": 52,
+          "collected_value": 17523.30542643593,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0334498087565103
+        },
+        "2": {
+          "score": 14940.181108152012,
+          "collections": 51,
+          "collected_value": 14940.181108152014,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 2.304438749949137
+        }
+      }
+    },
+    {
+      "seed": 134,
+      "bots": {
+        "1": {
+          "score": 18065.930378034234,
+          "collections": 55,
+          "collected_value": 18065.930378034234,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.034305731455485
+        },
+        "2": {
+          "score": 10377.055391197167,
+          "collections": 38,
+          "collected_value": 10377.055391197164,
+          "deposits": 22,
+          "captures": 0,
+          "invalid_actions": 13,
+          "avg_ms": 1.8616875012715657
+        }
+      }
+    },
+    {
+      "seed": 135,
+      "bots": {
+        "1": {
+          "score": 13741.210018465057,
+          "collections": 42,
+          "collected_value": 13741.210018465057,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.29188601175944
+        },
+        "2": {
+          "score": 17124.266178669342,
+          "collections": 64,
+          "collected_value": 17124.266178669342,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9166334470113118
+        }
+      }
+    },
+    {
+      "seed": 136,
+      "bots": {
+        "1": {
+          "score": 18616.737129342175,
+          "collections": 58,
+          "collected_value": 18616.737129342175,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1630613009134927
+        },
+        "2": {
+          "score": 16571.288067269234,
+          "collections": 52,
+          "collected_value": 16571.288067269234,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.9263211886088054
+        }
+      }
+    },
+    {
+      "seed": 137,
+      "bots": {
+        "1": {
+          "score": 17250.734609347164,
+          "collections": 51,
+          "collected_value": 17250.73460934716,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.070490519205729
+        },
+        "2": {
+          "score": 17690.256307007527,
+          "collections": 58,
+          "collected_value": 17690.25630700752,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 1.8778125445048015
+        }
+      }
+    },
+    {
+      "seed": 138,
+      "bots": {
+        "1": {
+          "score": 16236.880867000255,
+          "collections": 49,
+          "collected_value": 16236.880867000256,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.341569264729818
+        },
+        "2": {
+          "score": 15518.691760592978,
+          "collections": 51,
+          "collected_value": 15518.691760592974,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 12,
+          "avg_ms": 2.0738935470581055
+        }
+      }
+    },
+    {
+      "seed": 139,
+      "bots": {
+        "1": {
+          "score": 14263.70115983517,
+          "collections": 41,
+          "collected_value": 14263.70115983517,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2517124811808267
+        },
+        "2": {
+          "score": 16508.699370255265,
+          "collections": 49,
+          "collected_value": 16508.699370255265,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.937233606974284
+        }
+      }
+    },
+    {
+      "seed": 140,
+      "bots": {
+        "1": {
+          "score": 17357.491725394077,
+          "collections": 49,
+          "collected_value": 17357.491725394077,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1917263666788735
+        },
+        "2": {
+          "score": 16162.833311003455,
+          "collections": 48,
+          "collected_value": 16162.833311003456,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 6,
+          "avg_ms": 1.9560647010803223
+        }
+      }
+    },
+    {
+      "seed": 141,
+      "bots": {
+        "1": {
+          "score": 19422.622111439785,
+          "collections": 61,
+          "collected_value": 19422.622111439785,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0393784840901694
+        },
+        "2": {
+          "score": 15841.888724477145,
+          "collections": 51,
+          "collected_value": 15841.888724477145,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 15,
+          "avg_ms": 1.9140410423278809
+        }
+      }
+    },
+    {
+      "seed": 142,
+      "bots": {
+        "1": {
+          "score": 23478.833911437694,
+          "collections": 74,
+          "collected_value": 23478.833911437694,
+          "deposits": 48,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1108738581339517
+        },
+        "2": {
+          "score": 16588.847224830562,
+          "collections": 53,
+          "collected_value": 16588.847224830562,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 22,
+          "avg_ms": 2.0280750592549643
+        }
+      }
+    },
+    {
+      "seed": 143,
+      "bots": {
+        "1": {
+          "score": 15302.959895103746,
+          "collections": 49,
+          "collected_value": 15302.959895103746,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1415909131368003
+        },
+        "2": {
+          "score": 16693.096243905977,
+          "collections": 45,
+          "collected_value": 16693.096243905977,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8703937530517578
+        }
+      }
+    },
+    {
+      "seed": 144,
+      "bots": {
+        "1": {
+          "score": 11829.746629923708,
+          "collections": 40,
+          "collected_value": 11829.74662992371,
+          "deposits": 25,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2470839818318686
+        },
+        "2": {
+          "score": 13149.60873558016,
+          "collections": 41,
+          "collected_value": 13149.608735580161,
+          "deposits": 27,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.9443265597025554
+        }
+      }
+    },
+    {
+      "seed": 145,
+      "bots": {
+        "1": {
+          "score": 21313.30580812091,
+          "collections": 56,
+          "collected_value": 21313.305808120913,
+          "deposits": 46,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0185724894205728
+        },
+        "2": {
+          "score": 16371.848738981878,
+          "collections": 52,
+          "collected_value": 16371.848738981878,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 12,
+          "avg_ms": 1.8839557965596516
+        }
+      }
+    },
+    {
+      "seed": 146,
+      "bots": {
+        "1": {
+          "score": 14818.124463883873,
+          "collections": 45,
+          "collected_value": 14818.124463883873,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.3137633005777993
+        },
+        "2": {
+          "score": 12366.916589509638,
+          "collections": 39,
+          "collected_value": 12366.916589509638,
+          "deposits": 25,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1009675661722818
+        }
+      }
+    },
+    {
+      "seed": 147,
+      "bots": {
+        "1": {
+          "score": 23018.5365288039,
+          "collections": 69,
+          "collected_value": 23018.5365288039,
+          "deposits": 51,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9674865404764812
+        },
+        "2": {
+          "score": 14797.161850666229,
+          "collections": 49,
+          "collected_value": 14797.161850666227,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.9359016418457031
+        }
+      }
+    },
+    {
+      "seed": 148,
+      "bots": {
+        "1": {
+          "score": 18981.375875358783,
+          "collections": 58,
+          "collected_value": 18981.375875358783,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.150136629740397
+        },
+        "2": {
+          "score": 20619.065934676946,
+          "collections": 63,
+          "collected_value": 20619.065934676946,
+          "deposits": 46,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 1.8782496452331543
+        }
+      }
+    },
+    {
+      "seed": 149,
+      "bots": {
+        "1": {
+          "score": 16601.531292309406,
+          "collections": 52,
+          "collected_value": 16601.53129230941,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1099114418029785
+        },
+        "2": {
+          "score": 16021.953737217142,
+          "collections": 55,
+          "collected_value": 16021.953737217142,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.887373924255371
+        }
+      }
+    },
+    {
+      "seed": 150,
+      "bots": {
+        "1": {
+          "score": 18916.74304438393,
+          "collections": 59,
+          "collected_value": 18916.74304438393,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0663134256998696
+        },
+        "2": {
+          "score": 15354.826591763736,
+          "collections": 46,
+          "collected_value": 15354.826591763735,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8759910265604656
+        }
+      }
+    },
+    {
+      "seed": 151,
+      "bots": {
+        "1": {
+          "score": 16121.576538655776,
+          "collections": 48,
+          "collected_value": 16121.576538655776,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.157893180847168
+        },
+        "2": {
+          "score": 13750.704526421681,
+          "collections": 43,
+          "collected_value": 13750.704526421681,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 6,
+          "avg_ms": 2.0266969998677573
+        }
+      }
+    },
+    {
+      "seed": 152,
+      "bots": {
+        "1": {
+          "score": 19642.401839501275,
+          "collections": 65,
+          "collected_value": 19642.401839501275,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.194218635559082
+        },
+        "2": {
+          "score": 13218.507090818479,
+          "collections": 47,
+          "collected_value": 13218.507090818479,
+          "deposits": 27,
+          "captures": 1,
+          "invalid_actions": 0,
+          "avg_ms": 2.2042195002237954
+        }
+      }
+    },
+    {
+      "seed": 153,
+      "bots": {
+        "1": {
+          "score": 14860.054544297358,
+          "collections": 45,
+          "collected_value": 14860.054544297358,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2229488690694175
+        },
+        "2": {
+          "score": 24155.02479282616,
+          "collections": 79,
+          "collected_value": 24155.024792826163,
+          "deposits": 49,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.7783141136169434
+        }
+      }
+    },
+    {
+      "seed": 154,
+      "bots": {
+        "1": {
+          "score": 15146.796402304224,
+          "collections": 43,
+          "collected_value": 15146.796402304224,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.178365389506022
+        },
+        "2": {
+          "score": 16924.721092858264,
+          "collections": 51,
+          "collected_value": 16924.72109285826,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8647178014119465
+        }
+      }
+    },
+    {
+      "seed": 155,
+      "bots": {
+        "1": {
+          "score": 18012.015737768917,
+          "collections": 49,
+          "collected_value": 18012.015737768914,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1178309122721353
+        },
+        "2": {
+          "score": 15649.533809731076,
+          "collections": 49,
+          "collected_value": 15649.533809731074,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 1.9688979784647624
+        }
+      }
+    },
+    {
+      "seed": 156,
+      "bots": {
+        "1": {
+          "score": 12296.715145804439,
+          "collections": 36,
+          "collected_value": 12296.715145804437,
+          "deposits": 27,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.055612405141195
+        },
+        "2": {
+          "score": 17220.8119110373,
+          "collections": 51,
+          "collected_value": 17220.8119110373,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.907188892364502
+        }
+      }
+    },
+    {
+      "seed": 157,
+      "bots": {
+        "1": {
+          "score": 20885.59701835813,
+          "collections": 58,
+          "collected_value": 20885.597018358127,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.036769390106201
+        },
+        "2": {
+          "score": 16752.80825100886,
+          "collections": 50,
+          "collected_value": 16752.80825100886,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 11,
+          "avg_ms": 1.9166215260823567
+        }
+      }
+    },
+    {
+      "seed": 158,
+      "bots": {
+        "1": {
+          "score": 16578.012408388928,
+          "collections": 49,
+          "collected_value": 16578.012408388928,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9988203048706055
+        },
+        "2": {
+          "score": 15053.6881827174,
+          "collections": 48,
+          "collected_value": 15053.6881827174,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.8703873952229817
+        }
+      }
+    },
+    {
+      "seed": 159,
+      "bots": {
+        "1": {
+          "score": 16117.770242077284,
+          "collections": 50,
+          "collected_value": 16117.770242077284,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1120691299438477
+        },
+        "2": {
+          "score": 21055.2299573556,
+          "collections": 61,
+          "collected_value": 21055.2299573556,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0910167694091797
+        }
+      }
+    },
+    {
+      "seed": 160,
+      "bots": {
+        "1": {
+          "score": 18060.81399875566,
+          "collections": 54,
+          "collected_value": 18060.813998755664,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0424858729044595
+        },
+        "2": {
+          "score": 14441.664138575397,
+          "collections": 44,
+          "collected_value": 14441.664138575396,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 2.034604549407959
+        }
+      }
+    },
+    {
+      "seed": 161,
+      "bots": {
+        "1": {
+          "score": 11323.688787265457,
+          "collections": 33,
+          "collected_value": 11323.688787265457,
+          "deposits": 24,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2403438886006675
+        },
+        "2": {
+          "score": 18468.59890433907,
+          "collections": 54,
+          "collected_value": 18468.59890433907,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.864318052927653
+        }
+      }
+    },
+    {
+      "seed": 162,
+      "bots": {
+        "1": {
+          "score": 17352.754625096568,
+          "collections": 50,
+          "collected_value": 17352.754625096568,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2882747650146484
+        },
+        "2": {
+          "score": 17771.3312251844,
+          "collections": 50,
+          "collected_value": 17771.331225184396,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 2.0738975207010903
+        }
+      }
+    },
+    {
+      "seed": 163,
+      "bots": {
+        "1": {
+          "score": 19304.204568577294,
+          "collections": 61,
+          "collected_value": 19304.20456857729,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0649568239847818
+        },
+        "2": {
+          "score": 19807.16365205981,
+          "collections": 56,
+          "collected_value": 19807.16365205981,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 2.0040504137674966
+        }
+      }
+    },
+    {
+      "seed": 164,
+      "bots": {
+        "1": {
+          "score": 20545.106040305483,
+          "collections": 59,
+          "collected_value": 20545.106040305487,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1178579330444336
+        },
+        "2": {
+          "score": 14734.11452814343,
+          "collections": 45,
+          "collected_value": 14734.114528143427,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 13,
+          "avg_ms": 1.9847019513448079
+        }
+      }
+    },
+    {
+      "seed": 165,
+      "bots": {
+        "1": {
+          "score": 20834.357729415307,
+          "collections": 67,
+          "collected_value": 20834.357729415315,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8063672383626301
+        },
+        "2": {
+          "score": 17477.41502109334,
+          "collections": 55,
+          "collected_value": 17477.41502109334,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 17,
+          "avg_ms": 2.475771109263102
+        }
+      }
+    },
+    {
+      "seed": 166,
+      "bots": {
+        "1": {
+          "score": 17595.479285397243,
+          "collections": 51,
+          "collected_value": 17595.479285397247,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1263480186462402
+        },
+        "2": {
+          "score": 17708.118959730815,
+          "collections": 48,
+          "collected_value": 17708.118959730815,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.9378956158955891
+        }
+      }
+    },
+    {
+      "seed": 167,
+      "bots": {
+        "1": {
+          "score": 22284.702318947122,
+          "collections": 66,
+          "collected_value": 22284.702318947122,
+          "deposits": 49,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1397082010904946
+        },
+        "2": {
+          "score": 20376.48499690956,
+          "collections": 64,
+          "collected_value": 20376.48499690956,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 2.0041624704996743
+        }
+      }
+    },
+    {
+      "seed": 168,
+      "bots": {
+        "1": {
+          "score": 18587.51858547231,
+          "collections": 57,
+          "collected_value": 18587.51858547231,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9440833727518718
+        },
+        "2": {
+          "score": 14249.93450348043,
+          "collections": 47,
+          "collected_value": 14249.93450348043,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 8,
+          "avg_ms": 2.0223085085550943
+        }
+      }
+    },
+    {
+      "seed": 169,
+      "bots": {
+        "1": {
+          "score": 13037.927487181889,
+          "collections": 44,
+          "collected_value": 13537.927487181889,
+          "deposits": 27,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.019230524698893
+        },
+        "2": {
+          "score": 10921.66861293912,
+          "collections": 40,
+          "collected_value": 11421.66861293912,
+          "deposits": 23,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.9578369458516438
+        }
+      }
+    },
+    {
+      "seed": 170,
+      "bots": {
+        "1": {
+          "score": 14681.704007408342,
+          "collections": 41,
+          "collected_value": 14681.704007408342,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2655812899271646
+        },
+        "2": {
+          "score": 16179.086937360575,
+          "collections": 53,
+          "collected_value": 16179.086937360578,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0340593655904136
+        }
+      }
+    },
+    {
+      "seed": 171,
+      "bots": {
+        "1": {
+          "score": 19941.778148642818,
+          "collections": 61,
+          "collected_value": 19941.778148642818,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1109374364217124
+        },
+        "2": {
+          "score": 18133.326355385725,
+          "collections": 59,
+          "collected_value": 18133.326355385725,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9835400581359863
+        }
+      }
+    },
+    {
+      "seed": 172,
+      "bots": {
+        "1": {
+          "score": 16824.475704058492,
+          "collections": 53,
+          "collected_value": 16824.475704058492,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1737869580586753
+        },
+        "2": {
+          "score": 14849.71305875662,
+          "collections": 47,
+          "collected_value": 14849.713058756619,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.9833755493164062
+        }
+      }
+    },
+    {
+      "seed": 173,
+      "bots": {
+        "1": {
+          "score": 18990.175487020482,
+          "collections": 58,
+          "collected_value": 18990.175487020482,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2463552157084146
+        },
+        "2": {
+          "score": 16972.70258297242,
+          "collections": 52,
+          "collected_value": 16972.70258297242,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 15,
+          "avg_ms": 1.9925538698832195
+        }
+      }
+    },
+    {
+      "seed": 174,
+      "bots": {
+        "1": {
+          "score": 24499.86489065439,
+          "collections": 71,
+          "collected_value": 24499.86489065439,
+          "deposits": 53,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.948067347208659
+        },
+        "2": {
+          "score": 23668.576500846968,
+          "collections": 68,
+          "collected_value": 23668.576500846968,
+          "deposits": 51,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.7667182286580403
+        }
+      }
+    },
+    {
+      "seed": 175,
+      "bots": {
+        "1": {
+          "score": 21014.602998314484,
+          "collections": 67,
+          "collected_value": 21014.602998314484,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0986159642537436
+        },
+        "2": {
+          "score": 18670.30959427377,
+          "collections": 54,
+          "collected_value": 18670.30959427377,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 8,
+          "avg_ms": 1.884455680847168
+        }
+      }
+    },
+    {
+      "seed": 176,
+      "bots": {
+        "1": {
+          "score": 18830.30728020838,
+          "collections": 60,
+          "collected_value": 18830.30728020838,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.068626880645752
+        },
+        "2": {
+          "score": 17079.514952732294,
+          "collections": 59,
+          "collected_value": 17079.514952732294,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 8,
+          "avg_ms": 1.8674492835998535
+        }
+      }
+    },
+    {
+      "seed": 177,
+      "bots": {
+        "1": {
+          "score": 15852.523110219327,
+          "collections": 50,
+          "collected_value": 15852.523110219327,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.313391367594401
+        },
+        "2": {
+          "score": 14106.625208089798,
+          "collections": 41,
+          "collected_value": 14106.625208089798,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 1.963527997334798
+        }
+      }
+    },
+    {
+      "seed": 178,
+      "bots": {
+        "1": {
+          "score": 19214.27039317333,
+          "collections": 60,
+          "collected_value": 19214.270393173327,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0354604721069336
+        },
+        "2": {
+          "score": 20968.250743583536,
+          "collections": 64,
+          "collected_value": 20968.25074358354,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 1.7435280481974285
+        }
+      }
+    },
+    {
+      "seed": 179,
+      "bots": {
+        "1": {
+          "score": 18688.53898101039,
+          "collections": 56,
+          "collected_value": 18688.53898101039,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1846254666646323
+        },
+        "2": {
+          "score": 21266.737814064447,
+          "collections": 73,
+          "collected_value": 21266.737814064447,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.8219431241353352
+        }
+      }
+    },
+    {
+      "seed": 180,
+      "bots": {
+        "1": {
+          "score": 22190.108897893697,
+          "collections": 69,
+          "collected_value": 22190.108897893697,
+          "deposits": 46,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8697587649027507
+        },
+        "2": {
+          "score": 22622.560934081994,
+          "collections": 69,
+          "collected_value": 22622.56093408199,
+          "deposits": 47,
+          "captures": 0,
+          "invalid_actions": 10,
+          "avg_ms": 1.71464204788208
+        }
+      }
+    },
+    {
+      "seed": 181,
+      "bots": {
+        "1": {
+          "score": 16270.61980602231,
+          "collections": 56,
+          "collected_value": 16270.61980602231,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.071669101715088
+        },
+        "2": {
+          "score": 14220.97245539008,
+          "collections": 45,
+          "collected_value": 14220.97245539008,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.9939700762430828
+        }
+      }
+    },
+    {
+      "seed": 182,
+      "bots": {
+        "1": {
+          "score": 13763.230420414038,
+          "collections": 42,
+          "collected_value": 13763.230420414038,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.5078344345092773
+        },
+        "2": {
+          "score": 14312.769169360017,
+          "collections": 43,
+          "collected_value": 14312.769169360017,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.026220957438151
+        }
+      }
+    },
+    {
+      "seed": 183,
+      "bots": {
+        "1": {
+          "score": 13975.70679183137,
+          "collections": 41,
+          "collected_value": 13975.70679183137,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0571255683898926
+        },
+        "2": {
+          "score": 23755.63087925821,
+          "collections": 70,
+          "collected_value": 23755.63087925821,
+          "deposits": 52,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.6562024752298992
+        }
+      }
+    },
+    {
+      "seed": 184,
+      "bots": {
+        "1": {
+          "score": 18378.133336438594,
+          "collections": 60,
+          "collected_value": 18378.133336438594,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0859551429748535
+        },
+        "2": {
+          "score": 17893.26552858778,
+          "collections": 56,
+          "collected_value": 17893.26552858778,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 2.016162077585856
+        }
+      }
+    },
+    {
+      "seed": 185,
+      "bots": {
+        "1": {
+          "score": 21085.49121318405,
+          "collections": 64,
+          "collected_value": 21085.49121318405,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9971760114034016
+        },
+        "2": {
+          "score": 20500.38972632151,
+          "collections": 60,
+          "collected_value": 20500.389726321515,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 1.8197258313496907
+        }
+      }
+    },
+    {
+      "seed": 186,
+      "bots": {
+        "1": {
+          "score": 13772.70848940733,
+          "collections": 44,
+          "collected_value": 13772.70848940733,
+          "deposits": 28,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.192960580190023
+        },
+        "2": {
+          "score": 12531.773357472037,
+          "collections": 39,
+          "collected_value": 12531.773357472039,
+          "deposits": 26,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 2.126486301422119
+        }
+      }
+    },
+    {
+      "seed": 187,
+      "bots": {
+        "1": {
+          "score": 25285.7575236267,
+          "collections": 76,
+          "collected_value": 25285.757523626697,
+          "deposits": 54,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0328927040100098
+        },
+        "2": {
+          "score": 18056.024848930465,
+          "collections": 59,
+          "collected_value": 18056.02484893046,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 24,
+          "avg_ms": 1.8622040748596191
+        }
+      }
+    },
+    {
+      "seed": 188,
+      "bots": {
+        "1": {
+          "score": 16261.88312323091,
+          "collections": 50,
+          "collected_value": 16261.88312323091,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.26454496383667
+        },
+        "2": {
+          "score": 16151.48342236782,
+          "collections": 46,
+          "collected_value": 16151.48342236782,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.9765130678812664
+        }
+      }
+    },
+    {
+      "seed": 189,
+      "bots": {
+        "1": {
+          "score": 19927.69388893227,
+          "collections": 57,
+          "collected_value": 19927.69388893227,
+          "deposits": 42,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0676430066426597
+        },
+        "2": {
+          "score": 16187.770947539893,
+          "collections": 51,
+          "collected_value": 16187.770947539895,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.936943531036377
+        }
+      }
+    },
+    {
+      "seed": 190,
+      "bots": {
+        "1": {
+          "score": 19112.519110676596,
+          "collections": 51,
+          "collected_value": 19112.5191106766,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.134404182434082
+        },
+        "2": {
+          "score": 18509.13758399126,
+          "collections": 52,
+          "collected_value": 18509.137583991258,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 15,
+          "avg_ms": 1.9124364852905273
+        }
+      }
+    },
+    {
+      "seed": 191,
+      "bots": {
+        "1": {
+          "score": 18476.303829752913,
+          "collections": 58,
+          "collected_value": 18476.303829752913,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.04121987024943
+        },
+        "2": {
+          "score": 17220.677996018705,
+          "collections": 50,
+          "collected_value": 17220.677996018705,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 9,
+          "avg_ms": 2.024808724721273
+        }
+      }
+    },
+    {
+      "seed": 192,
+      "bots": {
+        "1": {
+          "score": 22332.891722626213,
+          "collections": 61,
+          "collected_value": 22332.891722626213,
+          "deposits": 50,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0155747731526694
+        },
+        "2": {
+          "score": 21749.85235122301,
+          "collections": 58,
+          "collected_value": 21749.85235122301,
+          "deposits": 49,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 1.8871514002482097
+        }
+      }
+    },
+    {
+      "seed": 193,
+      "bots": {
+        "1": {
+          "score": 15020.614997262592,
+          "collections": 44,
+          "collected_value": 15020.614997262592,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.107677459716797
+        },
+        "2": {
+          "score": 12088.82731157079,
+          "collections": 40,
+          "collected_value": 12088.827311570789,
+          "deposits": 25,
+          "captures": 0,
+          "invalid_actions": 9,
+          "avg_ms": 1.9612312316894531
+        }
+      }
+    },
+    {
+      "seed": 194,
+      "bots": {
+        "1": {
+          "score": 18318.824175607795,
+          "collections": 56,
+          "collected_value": 18318.824175607795,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9260629018147786
+        },
+        "2": {
+          "score": 17130.734594562913,
+          "collections": 54,
+          "collected_value": 17130.734594562913,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 6,
+          "avg_ms": 2.1802687644958496
+        }
+      }
+    },
+    {
+      "seed": 195,
+      "bots": {
+        "1": {
+          "score": 14053.132544611508,
+          "collections": 44,
+          "collected_value": 14053.132544611508,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2173500061035156
+        },
+        "2": {
+          "score": 14482.96219203106,
+          "collections": 45,
+          "collected_value": 14482.96219203106,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.092279593149821
+        }
+      }
+    },
+    {
+      "seed": 196,
+      "bots": {
+        "1": {
+          "score": 16009.729075177029,
+          "collections": 55,
+          "collected_value": 16009.72907517703,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.3180031776428223
+        },
+        "2": {
+          "score": 17997.745389405245,
+          "collections": 53,
+          "collected_value": 17997.745389405245,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 2.0428848266601562
+        }
+      }
+    },
+    {
+      "seed": 197,
+      "bots": {
+        "1": {
+          "score": 20813.169244738445,
+          "collections": 71,
+          "collected_value": 20813.169244738445,
+          "deposits": 47,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9509307543436687
+        },
+        "2": {
+          "score": 19749.19492206952,
+          "collections": 63,
+          "collected_value": 19749.19492206952,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8781725565592449
+        }
+      }
+    },
+    {
+      "seed": 198,
+      "bots": {
+        "1": {
+          "score": 17096.56815208929,
+          "collections": 49,
+          "collected_value": 17596.56815208929,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1601486206054688
+        },
+        "2": {
+          "score": 13756.315261888785,
+          "collections": 41,
+          "collected_value": 13756.315261888785,
+          "deposits": 28,
+          "captures": 0,
+          "invalid_actions": 6,
+          "avg_ms": 2.040069103240967
+        }
+      }
+    },
+    {
+      "seed": 199,
+      "bots": {
+        "1": {
+          "score": 24955.292633057295,
+          "collections": 74,
+          "collected_value": 24955.292633057295,
+          "deposits": 55,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.163194020589193
+        },
+        "2": {
+          "score": 22460.546346185474,
+          "collections": 63,
+          "collected_value": 22460.546346185474,
+          "deposits": 48,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.103675206502279
+        }
+      }
+    }
+  ],
+  "pos2_candidate_as_bot2": [
+    {
+      "seed": 100,
+      "bots": {
+        "1": {
+          "score": 15936.847977839132,
+          "collections": 50,
+          "collected_value": 15936.847977839132,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.456012566884359
+        },
+        "2": {
+          "score": 14639.28228332074,
+          "collections": 46,
+          "collected_value": 14639.28228332074,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 2.3587584495544434
+        }
+      }
+    },
+    {
+      "seed": 101,
+      "bots": {
+        "1": {
+          "score": 15514.890705751173,
+          "collections": 45,
+          "collected_value": 15514.890705751171,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.868471145629883
+        },
+        "2": {
+          "score": 15452.754085445224,
+          "collections": 47,
+          "collected_value": 15452.754085445222,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 2.8422180811564126
+        }
+      }
+    },
+    {
+      "seed": 102,
+      "bots": {
+        "1": {
+          "score": 16547.053662657006,
+          "collections": 50,
+          "collected_value": 16547.053662657003,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.261174519856771
+        },
+        "2": {
+          "score": 22805.89487958081,
+          "collections": 63,
+          "collected_value": 22805.89487958081,
+          "deposits": 48,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 2.0337088902791343
+        }
+      }
+    },
+    {
+      "seed": 103,
+      "bots": {
+        "1": {
+          "score": 19772.152697315254,
+          "collections": 61,
+          "collected_value": 19772.15269731525,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0355971654256186
+        },
+        "2": {
+          "score": 18618.494325183598,
+          "collections": 57,
+          "collected_value": 18618.494325183594,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.8736497561136882
+        }
+      }
+    },
+    {
+      "seed": 104,
+      "bots": {
+        "1": {
+          "score": 17935.811381550662,
+          "collections": 55,
+          "collected_value": 17935.811381550662,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.133165200551351
+        },
+        "2": {
+          "score": 14678.449729838794,
+          "collections": 45,
+          "collected_value": 14678.449729838796,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 8,
+          "avg_ms": 1.978009541829427
+        }
+      }
+    },
+    {
+      "seed": 105,
+      "bots": {
+        "1": {
+          "score": 16448.9989448244,
+          "collections": 55,
+          "collected_value": 16448.998944824405,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0926507314046225
+        },
+        "2": {
+          "score": 16330.431129907713,
+          "collections": 51,
+          "collected_value": 16330.431129907713,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.967024803161621
+        }
+      }
+    },
+    {
+      "seed": 106,
+      "bots": {
+        "1": {
+          "score": 16564.428925982036,
+          "collections": 57,
+          "collected_value": 16564.428925982043,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.97098970413208
+        },
+        "2": {
+          "score": 15860.747263325426,
+          "collections": 48,
+          "collected_value": 15860.747263325426,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 1.7857249577840169
+        }
+      }
+    },
+    {
+      "seed": 107,
+      "bots": {
+        "1": {
+          "score": 23804.738297676427,
+          "collections": 72,
+          "collected_value": 23804.738297676424,
+          "deposits": 59,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.039020856221517
+        },
+        "2": {
+          "score": 20396.3370647408,
+          "collections": 58,
+          "collected_value": 20396.337064740805,
+          "deposits": 48,
+          "captures": 0,
+          "invalid_actions": 11,
+          "avg_ms": 1.9560305277506511
+        }
+      }
+    },
+    {
+      "seed": 108,
+      "bots": {
+        "1": {
+          "score": 18249.14633681576,
+          "collections": 59,
+          "collected_value": 18249.14633681576,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.976761817932129
+        },
+        "2": {
+          "score": 19807.375067401717,
+          "collections": 52,
+          "collected_value": 19807.375067401717,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.8589083353678386
+        }
+      }
+    },
+    {
+      "seed": 109,
+      "bots": {
+        "1": {
+          "score": 20225.50719447337,
+          "collections": 63,
+          "collected_value": 20225.50719447337,
+          "deposits": 42,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.162004311879476
+        },
+        "2": {
+          "score": 15141.436952992994,
+          "collections": 51,
+          "collected_value": 15141.436952992994,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9704620043436687
+        }
+      }
+    },
+    {
+      "seed": 110,
+      "bots": {
+        "1": {
+          "score": 18024.988329052016,
+          "collections": 55,
+          "collected_value": 18024.988329052016,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1160308519999185
+        },
+        "2": {
+          "score": 16745.696549792297,
+          "collections": 50,
+          "collected_value": 16745.696549792297,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 2.0490757624308267
+        }
+      }
+    },
+    {
+      "seed": 111,
+      "bots": {
+        "1": {
+          "score": 17212.533999400817,
+          "collections": 53,
+          "collected_value": 17212.533999400814,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1785863240559897
+        },
+        "2": {
+          "score": 15466.925103135565,
+          "collections": 48,
+          "collected_value": 15466.925103135565,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 2.077476183573405
+        }
+      }
+    },
+    {
+      "seed": 112,
+      "bots": {
+        "1": {
+          "score": 13367.346236512954,
+          "collections": 48,
+          "collected_value": 13367.346236512954,
+          "deposits": 27,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0279836654663086
+        },
+        "2": {
+          "score": 22977.971644808847,
+          "collections": 63,
+          "collected_value": 22977.971644808847,
+          "deposits": 47,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.7336416244506836
+        }
+      }
+    },
+    {
+      "seed": 113,
+      "bots": {
+        "1": {
+          "score": 19957.350899789522,
+          "collections": 58,
+          "collected_value": 19957.350899789522,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1389309565226235
+        },
+        "2": {
+          "score": 20392.71834490065,
+          "collections": 62,
+          "collected_value": 20392.71834490065,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.9661204020182292
+        }
+      }
+    },
+    {
+      "seed": 114,
+      "bots": {
+        "1": {
+          "score": 16580.520499580343,
+          "collections": 44,
+          "collected_value": 16580.520499580347,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.087810834248861
+        },
+        "2": {
+          "score": 19613.232576955586,
+          "collections": 60,
+          "collected_value": 19613.23257695559,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8639302253723145
+        }
+      }
+    },
+    {
+      "seed": 115,
+      "bots": {
+        "1": {
+          "score": 18192.45556970953,
+          "collections": 55,
+          "collected_value": 18192.45556970953,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0094680786132812
+        },
+        "2": {
+          "score": 18546.985228623544,
+          "collections": 53,
+          "collected_value": 18546.98522862354,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.8436439832051594
+        }
+      }
+    },
+    {
+      "seed": 116,
+      "bots": {
+        "1": {
+          "score": 21019.64602957626,
+          "collections": 63,
+          "collected_value": 21019.646029576255,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1638949712117515
+        },
+        "2": {
+          "score": 18910.645342038144,
+          "collections": 55,
+          "collected_value": 18910.64534203814,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 2.0664755503336587
+        }
+      }
+    },
+    {
+      "seed": 117,
+      "bots": {
+        "1": {
+          "score": 18059.93012198786,
+          "collections": 49,
+          "collected_value": 18059.930121987865,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0917558670043945
+        },
+        "2": {
+          "score": 22918.571549901662,
+          "collections": 69,
+          "collected_value": 22918.571549901666,
+          "deposits": 48,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.858680248260498
+        }
+      }
+    },
+    {
+      "seed": 118,
+      "bots": {
+        "1": {
+          "score": 18202.019061020368,
+          "collections": 58,
+          "collected_value": 18202.019061020368,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9643608729044597
+        },
+        "2": {
+          "score": 16469.526747313324,
+          "collections": 54,
+          "collected_value": 16469.526747313328,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 1.8011927604675293
+        }
+      }
+    },
+    {
+      "seed": 119,
+      "bots": {
+        "1": {
+          "score": 16071.23847205637,
+          "collections": 50,
+          "collected_value": 16071.23847205637,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.183795770009359
+        },
+        "2": {
+          "score": 16897.532995062185,
+          "collections": 52,
+          "collected_value": 16897.532995062185,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 2.0493507385253906
+        }
+      }
+    },
+    {
+      "seed": 120,
+      "bots": {
+        "1": {
+          "score": 13841.280982084514,
+          "collections": 45,
+          "collected_value": 13841.280982084516,
+          "deposits": 28,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.266104221343994
+        },
+        "2": {
+          "score": 16135.680926370103,
+          "collections": 51,
+          "collected_value": 16135.680926370103,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 1.98530912399292
+        }
+      }
+    },
+    {
+      "seed": 121,
+      "bots": {
+        "1": {
+          "score": 19124.639278156432,
+          "collections": 54,
+          "collected_value": 19124.63927815643,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.001185417175293
+        },
+        "2": {
+          "score": 16361.573219028094,
+          "collections": 52,
+          "collected_value": 16361.573219028094,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 10,
+          "avg_ms": 1.7918769518534343
+        }
+      }
+    },
+    {
+      "seed": 122,
+      "bots": {
+        "1": {
+          "score": 15923.337601666191,
+          "collections": 49,
+          "collected_value": 15923.337601666191,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.065463066101074
+        },
+        "2": {
+          "score": 19410.794739730067,
+          "collections": 58,
+          "collected_value": 19410.794739730067,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9094141324361165
+        }
+      }
+    },
+    {
+      "seed": 123,
+      "bots": {
+        "1": {
+          "score": 18794.721843336272,
+          "collections": 63,
+          "collected_value": 19294.721843336272,
+          "deposits": 42,
+          "captures": 1,
+          "invalid_actions": 0,
+          "avg_ms": 2.0084238052368164
+        },
+        "2": {
+          "score": 16336.61189110092,
+          "collections": 51,
+          "collected_value": 16336.611891100922,
+          "deposits": 35,
+          "captures": 1,
+          "invalid_actions": 5,
+          "avg_ms": 1.9427704811096191
+        }
+      }
+    },
+    {
+      "seed": 124,
+      "bots": {
+        "1": {
+          "score": 10639.095719673402,
+          "collections": 35,
+          "collected_value": 10639.095719673402,
+          "deposits": 22,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0668506622314453
+        },
+        "2": {
+          "score": 13164.975573684209,
+          "collections": 40,
+          "collected_value": 13164.97557368421,
+          "deposits": 27,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.941348711649577
+        }
+      }
+    },
+    {
+      "seed": 125,
+      "bots": {
+        "1": {
+          "score": 22786.553289808253,
+          "collections": 70,
+          "collected_value": 22786.553289808257,
+          "deposits": 50,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.913619836171468
+        },
+        "2": {
+          "score": 18874.855456086236,
+          "collections": 56,
+          "collected_value": 18874.855456086232,
+          "deposits": 42,
+          "captures": 0,
+          "invalid_actions": 13,
+          "avg_ms": 2.022374471028646
+        }
+      }
+    },
+    {
+      "seed": 126,
+      "bots": {
+        "1": {
+          "score": 16814.892294397356,
+          "collections": 53,
+          "collected_value": 16814.892294397356,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.073617776234945
+        },
+        "2": {
+          "score": 16228.472573882998,
+          "collections": 48,
+          "collected_value": 16228.472573882998,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 2.0046377182006836
+        }
+      }
+    },
+    {
+      "seed": 127,
+      "bots": {
+        "1": {
+          "score": 19898.458950443117,
+          "collections": 58,
+          "collected_value": 19898.458950443117,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1006027857462564
+        },
+        "2": {
+          "score": 15393.601401588781,
+          "collections": 50,
+          "collected_value": 15393.601401588781,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 9,
+          "avg_ms": 1.9495805104573567
+        }
+      }
+    },
+    {
+      "seed": 128,
+      "bots": {
+        "1": {
+          "score": 17108.3883967944,
+          "collections": 56,
+          "collected_value": 17108.3883967944,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1615449587504068
+        },
+        "2": {
+          "score": 15779.603010244577,
+          "collections": 43,
+          "collected_value": 15779.603010244577,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 2.1431517601013184
+        }
+      }
+    },
+    {
+      "seed": 129,
+      "bots": {
+        "1": {
+          "score": 12871.935090977237,
+          "collections": 38,
+          "collected_value": 12871.935090977238,
+          "deposits": 27,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0694494247436523
+        },
+        "2": {
+          "score": 14012.789890365177,
+          "collections": 41,
+          "collected_value": 14012.789890365173,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.958170731862386
+        }
+      }
+    },
+    {
+      "seed": 130,
+      "bots": {
+        "1": {
+          "score": 18805.195505238196,
+          "collections": 67,
+          "collected_value": 18805.195505238196,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0956222216288247
+        },
+        "2": {
+          "score": 20417.95502659127,
+          "collections": 59,
+          "collected_value": 20417.95502659127,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.9107635815938313
+        }
+      }
+    },
+    {
+      "seed": 131,
+      "bots": {
+        "1": {
+          "score": 15812.40076737155,
+          "collections": 43,
+          "collected_value": 15812.40076737155,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.334162394205729
+        },
+        "2": {
+          "score": 16462.924657053525,
+          "collections": 51,
+          "collected_value": 16462.924657053525,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.160795529683431
+        }
+      }
+    },
+    {
+      "seed": 132,
+      "bots": {
+        "1": {
+          "score": 20455.402264349843,
+          "collections": 57,
+          "collected_value": 20455.402264349843,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.019624710083008
+        },
+        "2": {
+          "score": 21980.328665631532,
+          "collections": 59,
+          "collected_value": 21980.328665631532,
+          "deposits": 46,
+          "captures": 0,
+          "invalid_actions": 6,
+          "avg_ms": 1.729123592376709
+        }
+      }
+    },
+    {
+      "seed": 133,
+      "bots": {
+        "1": {
+          "score": 15891.799838494886,
+          "collections": 58,
+          "collected_value": 15891.799838494888,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.129389444986979
+        },
+        "2": {
+          "score": 16186.90491418936,
+          "collections": 53,
+          "collected_value": 16186.904914189357,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 1.9913283983866374
+        }
+      }
+    },
+    {
+      "seed": 134,
+      "bots": {
+        "1": {
+          "score": 15463.734305145585,
+          "collections": 49,
+          "collected_value": 15963.734305145583,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0453906059265137
+        },
+        "2": {
+          "score": 14181.791172316653,
+          "collections": 47,
+          "collected_value": 14181.791172316653,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 6,
+          "avg_ms": 1.8543402353922527
+        }
+      }
+    },
+    {
+      "seed": 135,
+      "bots": {
+        "1": {
+          "score": 15192.777649944954,
+          "collections": 54,
+          "collected_value": 15192.777649944952,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1020356814066568
+        },
+        "2": {
+          "score": 16065.81804149496,
+          "collections": 50,
+          "collected_value": 16065.818041494962,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.980742613474528
+        }
+      }
+    },
+    {
+      "seed": 136,
+      "bots": {
+        "1": {
+          "score": 16371.120269159193,
+          "collections": 50,
+          "collected_value": 16371.120269159192,
+          "deposits": 34,
+          "captures": 1,
+          "invalid_actions": 0,
+          "avg_ms": 2.0935662587483725
+        },
+        "2": {
+          "score": 15971.718280691071,
+          "collections": 48,
+          "collected_value": 15971.718280691071,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 8,
+          "avg_ms": 1.9389661153157551
+        }
+      }
+    },
+    {
+      "seed": 137,
+      "bots": {
+        "1": {
+          "score": 16265.87895934054,
+          "collections": 53,
+          "collected_value": 16265.878959340542,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.15130885442098
+        },
+        "2": {
+          "score": 16664.922649371765,
+          "collections": 49,
+          "collected_value": 16664.922649371765,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.9466336568196614
+        }
+      }
+    },
+    {
+      "seed": 138,
+      "bots": {
+        "1": {
+          "score": 16134.643822905846,
+          "collections": 47,
+          "collected_value": 16134.643822905846,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.198308308919271
+        },
+        "2": {
+          "score": 16229.426076854133,
+          "collections": 49,
+          "collected_value": 16229.426076854133,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.9832833607991536
+        }
+      }
+    },
+    {
+      "seed": 139,
+      "bots": {
+        "1": {
+          "score": 14150.683010597544,
+          "collections": 44,
+          "collected_value": 14150.683010597544,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.3090672492980957
+        },
+        "2": {
+          "score": 18095.129316720257,
+          "collections": 58,
+          "collected_value": 18095.12931672026,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 2.0272231101989746
+        }
+      }
+    },
+    {
+      "seed": 140,
+      "bots": {
+        "1": {
+          "score": 16266.909381045945,
+          "collections": 56,
+          "collected_value": 16266.909381045947,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1277928352355957
+        },
+        "2": {
+          "score": 14117.672952168308,
+          "collections": 42,
+          "collected_value": 14117.672952168308,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.9466392199198406
+        }
+      }
+    },
+    {
+      "seed": 141,
+      "bots": {
+        "1": {
+          "score": 21110.586025027485,
+          "collections": 65,
+          "collected_value": 21110.586025027485,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.060699462890625
+        },
+        "2": {
+          "score": 13566.068624528312,
+          "collections": 42,
+          "collected_value": 13566.068624528312,
+          "deposits": 28,
+          "captures": 0,
+          "invalid_actions": 9,
+          "avg_ms": 2.0082839330037436
+        }
+      }
+    },
+    {
+      "seed": 142,
+      "bots": {
+        "1": {
+          "score": 22656.739484689668,
+          "collections": 72,
+          "collected_value": 22656.739484689664,
+          "deposits": 46,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9513400395711262
+        },
+        "2": {
+          "score": 17566.913215182227,
+          "collections": 55,
+          "collected_value": 17566.91321518223,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 26,
+          "avg_ms": 1.8208400408426921
+        }
+      }
+    },
+    {
+      "seed": 143,
+      "bots": {
+        "1": {
+          "score": 15178.867778907257,
+          "collections": 44,
+          "collected_value": 15178.867778907257,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0447158813476562
+        },
+        "2": {
+          "score": 16392.03625689603,
+          "collections": 47,
+          "collected_value": 16392.036256896026,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 6,
+          "avg_ms": 1.8198633193969727
+        }
+      }
+    },
+    {
+      "seed": 144,
+      "bots": {
+        "1": {
+          "score": 14890.667300797666,
+          "collections": 41,
+          "collected_value": 14890.667300797666,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2131498654683432
+        },
+        "2": {
+          "score": 15884.34313899455,
+          "collections": 45,
+          "collected_value": 15884.34313899455,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 2.0238733291625977
+        }
+      }
+    },
+    {
+      "seed": 145,
+      "bots": {
+        "1": {
+          "score": 17735.421983689725,
+          "collections": 60,
+          "collected_value": 17735.421983689725,
+          "deposits": 39,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.075354258219401
+        },
+        "2": {
+          "score": 16625.925325959764,
+          "collections": 49,
+          "collected_value": 16625.925325959764,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 11,
+          "avg_ms": 1.9215480486551921
+        }
+      }
+    },
+    {
+      "seed": 146,
+      "bots": {
+        "1": {
+          "score": 13850.967304019354,
+          "collections": 44,
+          "collected_value": 13850.967304019352,
+          "deposits": 28,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1682985623677573
+        },
+        "2": {
+          "score": 13048.242107056078,
+          "collections": 40,
+          "collected_value": 13048.242107056078,
+          "deposits": 27,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 2.040247917175293
+        }
+      }
+    },
+    {
+      "seed": 147,
+      "bots": {
+        "1": {
+          "score": 19895.187285254466,
+          "collections": 62,
+          "collected_value": 19895.18728525447,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.883864402770996
+        },
+        "2": {
+          "score": 14771.397951492,
+          "collections": 51,
+          "collected_value": 15565.47187710168,
+          "deposits": 32,
+          "captures": 2,
+          "invalid_actions": 4,
+          "avg_ms": 1.7375715573628743
+        }
+      }
+    },
+    {
+      "seed": 148,
+      "bots": {
+        "1": {
+          "score": 18439.425869833412,
+          "collections": 51,
+          "collected_value": 18439.42586983341,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1437859535217285
+        },
+        "2": {
+          "score": 19930.543083147582,
+          "collections": 58,
+          "collected_value": 19930.543083147582,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 9,
+          "avg_ms": 1.962570349375407
+        }
+      }
+    },
+    {
+      "seed": 149,
+      "bots": {
+        "1": {
+          "score": 18142.035738171697,
+          "collections": 54,
+          "collected_value": 18142.035738171697,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1865336100260415
+        },
+        "2": {
+          "score": 18307.428540205336,
+          "collections": 59,
+          "collected_value": 18307.42854020534,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 1.979064146677653
+        }
+      }
+    },
+    {
+      "seed": 150,
+      "bots": {
+        "1": {
+          "score": 17334.89869496436,
+          "collections": 52,
+          "collected_value": 17334.89869496436,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8780239423116047
+        },
+        "2": {
+          "score": 16675.4129802976,
+          "collections": 52,
+          "collected_value": 17175.4129802976,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 1.7424750328063965
+        }
+      }
+    },
+    {
+      "seed": 151,
+      "bots": {
+        "1": {
+          "score": 14496.110372819148,
+          "collections": 44,
+          "collected_value": 14496.110372819147,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.120811144510905
+        },
+        "2": {
+          "score": 14175.35434625102,
+          "collections": 39,
+          "collected_value": 14175.354346251019,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 2.1678527196248374
+        }
+      }
+    },
+    {
+      "seed": 152,
+      "bots": {
+        "1": {
+          "score": 20983.554121184065,
+          "collections": 70,
+          "collected_value": 20983.554121184065,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9249717394510906
+        },
+        "2": {
+          "score": 16569.934447586864,
+          "collections": 50,
+          "collected_value": 16569.934447586867,
+          "deposits": 34,
+          "captures": 1,
+          "invalid_actions": 0,
+          "avg_ms": 2.0082290967305503
+        }
+      }
+    },
+    {
+      "seed": 153,
+      "bots": {
+        "1": {
+          "score": 17083.484848151973,
+          "collections": 53,
+          "collected_value": 17083.484848151973,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.002549966176351
+        },
+        "2": {
+          "score": 22678.664775277968,
+          "collections": 71,
+          "collected_value": 22678.664775277968,
+          "deposits": 46,
+          "captures": 0,
+          "invalid_actions": 9,
+          "avg_ms": 1.676812966664632
+        }
+      }
+    },
+    {
+      "seed": 154,
+      "bots": {
+        "1": {
+          "score": 16377.00894379061,
+          "collections": 49,
+          "collected_value": 16377.00894379061,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1129528681437173
+        },
+        "2": {
+          "score": 15286.960456413271,
+          "collections": 46,
+          "collected_value": 15286.960456413271,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.9323404630025227
+        }
+      }
+    },
+    {
+      "seed": 155,
+      "bots": {
+        "1": {
+          "score": 20241.651531041116,
+          "collections": 56,
+          "collected_value": 20241.651531041116,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1033573150634766
+        },
+        "2": {
+          "score": 18456.057670631508,
+          "collections": 52,
+          "collected_value": 18456.057670631508,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9249288241068523
+        }
+      }
+    },
+    {
+      "seed": 156,
+      "bots": {
+        "1": {
+          "score": 14481.543657004531,
+          "collections": 41,
+          "collected_value": 14481.543657004531,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8733517328898113
+        },
+        "2": {
+          "score": 14973.465408122644,
+          "collections": 43,
+          "collected_value": 14973.465408122644,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.7311914761861165
+        }
+      }
+    },
+    {
+      "seed": 157,
+      "bots": {
+        "1": {
+          "score": 17961.81311970151,
+          "collections": 52,
+          "collected_value": 17961.813119701506,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.061018149058024
+        },
+        "2": {
+          "score": 18135.131705511893,
+          "collections": 54,
+          "collected_value": 18135.131705511893,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 2.050682703653971
+        }
+      }
+    },
+    {
+      "seed": 158,
+      "bots": {
+        "1": {
+          "score": 17128.736173031193,
+          "collections": 51,
+          "collected_value": 17128.736173031193,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.120359738667806
+        },
+        "2": {
+          "score": 17320.152023011702,
+          "collections": 53,
+          "collected_value": 17320.152023011702,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.92870299021403
+        }
+      }
+    },
+    {
+      "seed": 159,
+      "bots": {
+        "1": {
+          "score": 15896.883825002464,
+          "collections": 52,
+          "collected_value": 15896.883825002462,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0580712954203286
+        },
+        "2": {
+          "score": 14887.471159156334,
+          "collections": 46,
+          "collected_value": 14887.471159156334,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 1.973110834757487
+        }
+      }
+    },
+    {
+      "seed": 160,
+      "bots": {
+        "1": {
+          "score": 13728.23284167837,
+          "collections": 46,
+          "collected_value": 13728.232841678371,
+          "deposits": 28,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.278413772583008
+        },
+        "2": {
+          "score": 16488.893654503278,
+          "collections": 48,
+          "collected_value": 16945.684617964507,
+          "deposits": 34,
+          "captures": 1,
+          "invalid_actions": 1,
+          "avg_ms": 1.9949682553609211
+        }
+      }
+    },
+    {
+      "seed": 161,
+      "bots": {
+        "1": {
+          "score": 14327.066766730577,
+          "collections": 45,
+          "collected_value": 14327.066766730577,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.152980168660482
+        },
+        "2": {
+          "score": 14200.65621915727,
+          "collections": 39,
+          "collected_value": 14200.65621915727,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 2.0278151830037436
+        }
+      }
+    },
+    {
+      "seed": 162,
+      "bots": {
+        "1": {
+          "score": 17436.492353430724,
+          "collections": 54,
+          "collected_value": 17936.492353430724,
+          "deposits": 36,
+          "captures": 1,
+          "invalid_actions": 0,
+          "avg_ms": 1.992790699005127
+        },
+        "2": {
+          "score": 19146.118138026777,
+          "collections": 59,
+          "collected_value": 19146.118138026777,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8833033243815105
+        }
+      }
+    },
+    {
+      "seed": 163,
+      "bots": {
+        "1": {
+          "score": 18896.53696455732,
+          "collections": 57,
+          "collected_value": 18896.53696455732,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1175694465637207
+        },
+        "2": {
+          "score": 19514.98056720632,
+          "collections": 59,
+          "collected_value": 19514.98056720632,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 2.096060117085775
+        }
+      }
+    },
+    {
+      "seed": 164,
+      "bots": {
+        "1": {
+          "score": 20168.698106762182,
+          "collections": 60,
+          "collected_value": 20168.69810676219,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.115656534830729
+        },
+        "2": {
+          "score": 14856.397222002122,
+          "collections": 46,
+          "collected_value": 14856.397222002122,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 10,
+          "avg_ms": 1.9831585884094238
+        }
+      }
+    },
+    {
+      "seed": 165,
+      "bots": {
+        "1": {
+          "score": 23470.08752531757,
+          "collections": 66,
+          "collected_value": 23470.08752531757,
+          "deposits": 49,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.897594928741455
+        },
+        "2": {
+          "score": 19692.80427801977,
+          "collections": 62,
+          "collected_value": 19692.804278019772,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 12,
+          "avg_ms": 1.7337965965270996
+        }
+      }
+    },
+    {
+      "seed": 166,
+      "bots": {
+        "1": {
+          "score": 17288.846179061085,
+          "collections": 51,
+          "collected_value": 17288.846179061085,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.281764348347982
+        },
+        "2": {
+          "score": 16894.910723694717,
+          "collections": 51,
+          "collected_value": 16894.910723694717,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 2.0920189221700034
+        }
+      }
+    },
+    {
+      "seed": 167,
+      "bots": {
+        "1": {
+          "score": 18895.601678835963,
+          "collections": 55,
+          "collected_value": 18895.601678835963,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0150136947631836
+        },
+        "2": {
+          "score": 17175.850146043398,
+          "collections": 54,
+          "collected_value": 17175.850146043394,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 10,
+          "avg_ms": 1.8016163508097331
+        }
+      }
+    },
+    {
+      "seed": 168,
+      "bots": {
+        "1": {
+          "score": 18159.57987333966,
+          "collections": 58,
+          "collected_value": 18159.57987333966,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9480713208516438
+        },
+        "2": {
+          "score": 15206.98171857144,
+          "collections": 49,
+          "collected_value": 15206.981718571438,
+          "deposits": 32,
+          "captures": 0,
+          "invalid_actions": 6,
+          "avg_ms": 1.8666736284891765
+        }
+      }
+    },
+    {
+      "seed": 169,
+      "bots": {
+        "1": {
+          "score": 15719.175816851159,
+          "collections": 47,
+          "collected_value": 15719.175816851159,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2648088137308755
+        },
+        "2": {
+          "score": 15280.8087554572,
+          "collections": 48,
+          "collected_value": 15280.8087554572,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0971051851908364
+        }
+      }
+    },
+    {
+      "seed": 170,
+      "bots": {
+        "1": {
+          "score": 17605.413215300287,
+          "collections": 51,
+          "collected_value": 17605.413215300287,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8947943051656086
+        },
+        "2": {
+          "score": 15438.447985256409,
+          "collections": 46,
+          "collected_value": 15438.447985256409,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.714938481648763
+        }
+      }
+    },
+    {
+      "seed": 171,
+      "bots": {
+        "1": {
+          "score": 19662.572638127163,
+          "collections": 62,
+          "collected_value": 19662.572638127163,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.006219228108724
+        },
+        "2": {
+          "score": 17730.028297527835,
+          "collections": 56,
+          "collected_value": 17730.028297527842,
+          "deposits": 37,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 1.8471868832906086
+        }
+      }
+    },
+    {
+      "seed": 172,
+      "bots": {
+        "1": {
+          "score": 13918.237774259498,
+          "collections": 44,
+          "collected_value": 13918.237774259496,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.3058032989501953
+        },
+        "2": {
+          "score": 21146.484623885306,
+          "collections": 64,
+          "collected_value": 21146.484623885306,
+          "deposits": 45,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9208868344624836
+        }
+      }
+    },
+    {
+      "seed": 173,
+      "bots": {
+        "1": {
+          "score": 19925.3168650443,
+          "collections": 63,
+          "collected_value": 19925.316865044304,
+          "deposits": 46,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8984301884969075
+        },
+        "2": {
+          "score": 22301.810201850938,
+          "collections": 69,
+          "collected_value": 22301.810201850938,
+          "deposits": 46,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8104759852091472
+        }
+      }
+    },
+    {
+      "seed": 174,
+      "bots": {
+        "1": {
+          "score": 19253.808608588923,
+          "collections": 62,
+          "collected_value": 19253.808608588923,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1735191345214844
+        },
+        "2": {
+          "score": 19086.36286229905,
+          "collections": 60,
+          "collected_value": 19086.36286229905,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 12,
+          "avg_ms": 1.9326670964558919
+        }
+      }
+    },
+    {
+      "seed": 175,
+      "bots": {
+        "1": {
+          "score": 21705.549972757275,
+          "collections": 68,
+          "collected_value": 21705.549972757275,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.234187920888265
+        },
+        "2": {
+          "score": 14785.370368978596,
+          "collections": 45,
+          "collected_value": 14785.370368978596,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 2.1186391512552896
+        }
+      }
+    },
+    {
+      "seed": 176,
+      "bots": {
+        "1": {
+          "score": 15994.224434855636,
+          "collections": 54,
+          "collected_value": 15994.224434855638,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.99386199315389
+        },
+        "2": {
+          "score": 16946.296285796285,
+          "collections": 52,
+          "collected_value": 16946.296285796285,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 9,
+          "avg_ms": 1.8336852391560872
+        }
+      }
+    },
+    {
+      "seed": 177,
+      "bots": {
+        "1": {
+          "score": 16022.367231289958,
+          "collections": 41,
+          "collected_value": 16022.367231289958,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0793350537618003
+        },
+        "2": {
+          "score": 14179.868589043195,
+          "collections": 45,
+          "collected_value": 14179.868589043195,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 7,
+          "avg_ms": 2.109813690185547
+        }
+      }
+    },
+    {
+      "seed": 178,
+      "bots": {
+        "1": {
+          "score": 20415.665890120323,
+          "collections": 60,
+          "collected_value": 20415.665890120323,
+          "deposits": 42,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9164061546325684
+        },
+        "2": {
+          "score": 24458.83032227076,
+          "collections": 70,
+          "collected_value": 24458.830322270762,
+          "deposits": 50,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.649337609608968
+        }
+      }
+    },
+    {
+      "seed": 179,
+      "bots": {
+        "1": {
+          "score": 18347.803277424377,
+          "collections": 58,
+          "collected_value": 18347.803277424373,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.9526322682698567
+        },
+        "2": {
+          "score": 18433.603419453637,
+          "collections": 67,
+          "collected_value": 18433.60341945364,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 4,
+          "avg_ms": 1.7665529251098633
+        }
+      }
+    },
+    {
+      "seed": 180,
+      "bots": {
+        "1": {
+          "score": 20069.68665465655,
+          "collections": 63,
+          "collected_value": 20069.686654656554,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.066966692606608
+        },
+        "2": {
+          "score": 25866.184635289803,
+          "collections": 75,
+          "collected_value": 25866.1846352898,
+          "deposits": 53,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.81046724319458
+        }
+      }
+    },
+    {
+      "seed": 181,
+      "bots": {
+        "1": {
+          "score": 14483.487558121877,
+          "collections": 51,
+          "collected_value": 14483.487558121877,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.089087168375651
+        },
+        "2": {
+          "score": 16737.394978295077,
+          "collections": 51,
+          "collected_value": 16737.39497829508,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 1.920030117034912
+        }
+      }
+    },
+    {
+      "seed": 182,
+      "bots": {
+        "1": {
+          "score": 16514.460215038547,
+          "collections": 54,
+          "collected_value": 16514.460215038547,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.181400458017985
+        },
+        "2": {
+          "score": 11810.299648178436,
+          "collections": 36,
+          "collected_value": 12310.299648178436,
+          "deposits": 25,
+          "captures": 1,
+          "invalid_actions": 1,
+          "avg_ms": 2.0966442426045737
+        }
+      }
+    },
+    {
+      "seed": 183,
+      "bots": {
+        "1": {
+          "score": 16999.25026795955,
+          "collections": 55,
+          "collected_value": 16999.25026795955,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1435793240865073
+        },
+        "2": {
+          "score": 21921.160327027224,
+          "collections": 59,
+          "collected_value": 22421.160327027224,
+          "deposits": 48,
+          "captures": 0,
+          "invalid_actions": 11,
+          "avg_ms": 2.038726011912028
+        }
+      }
+    },
+    {
+      "seed": 184,
+      "bots": {
+        "1": {
+          "score": 18603.438633586065,
+          "collections": 56,
+          "collected_value": 18603.43863358606,
+          "deposits": 38,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.128125031789144
+        },
+        "2": {
+          "score": 19560.76641564673,
+          "collections": 60,
+          "collected_value": 19560.76641564673,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 1.801614761352539
+        }
+      }
+    },
+    {
+      "seed": 185,
+      "bots": {
+        "1": {
+          "score": 21794.414912899156,
+          "collections": 65,
+          "collected_value": 21794.414912899152,
+          "deposits": 45,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.03684409459432
+        },
+        "2": {
+          "score": 19592.574482769145,
+          "collections": 65,
+          "collected_value": 19592.57448276915,
+          "deposits": 44,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 1.8574762344360352
+        }
+      }
+    },
+    {
+      "seed": 186,
+      "bots": {
+        "1": {
+          "score": 13880.779177653918,
+          "collections": 42,
+          "collected_value": 14380.779177653918,
+          "deposits": 28,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.0724312464396157
+        },
+        "2": {
+          "score": 14899.694991856677,
+          "collections": 43,
+          "collected_value": 14899.694991856679,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1604220072428384
+        }
+      }
+    },
+    {
+      "seed": 187,
+      "bots": {
+        "1": {
+          "score": 23274.25081256289,
+          "collections": 77,
+          "collected_value": 23274.25081256289,
+          "deposits": 47,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8960881233215332
+        },
+        "2": {
+          "score": 20616.826461040393,
+          "collections": 59,
+          "collected_value": 20616.826461040393,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 28,
+          "avg_ms": 1.7120639483133953
+        }
+      }
+    },
+    {
+      "seed": 188,
+      "bots": {
+        "1": {
+          "score": 15867.70093156191,
+          "collections": 51,
+          "collected_value": 15867.700931561909,
+          "deposits": 33,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1738155682881675
+        },
+        "2": {
+          "score": 15051.45953446649,
+          "collections": 47,
+          "collected_value": 15051.45953446649,
+          "deposits": 34,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 1.9777814547220867
+        }
+      }
+    },
+    {
+      "seed": 189,
+      "bots": {
+        "1": {
+          "score": 18455.310990186634,
+          "collections": 59,
+          "collected_value": 18455.310990186634,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.202738126118978
+        },
+        "2": {
+          "score": 16826.102022004576,
+          "collections": 53,
+          "collected_value": 16826.102022004572,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 3,
+          "avg_ms": 2.0657078425089517
+        }
+      }
+    },
+    {
+      "seed": 190,
+      "bots": {
+        "1": {
+          "score": 18872.335507855583,
+          "collections": 52,
+          "collected_value": 18872.335507855583,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1478772163391113
+        },
+        "2": {
+          "score": 17381.481079816058,
+          "collections": 46,
+          "collected_value": 17381.481079816058,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 12,
+          "avg_ms": 1.9151369730631511
+        }
+      }
+    },
+    {
+      "seed": 191,
+      "bots": {
+        "1": {
+          "score": 18975.50520476915,
+          "collections": 55,
+          "collected_value": 18975.50520476915,
+          "deposits": 40,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.193119525909424
+        },
+        "2": {
+          "score": 15813.69964849239,
+          "collections": 50,
+          "collected_value": 16313.69964849239,
+          "deposits": 35,
+          "captures": 0,
+          "invalid_actions": 12,
+          "avg_ms": 1.9405849774678547
+        }
+      }
+    },
+    {
+      "seed": 192,
+      "bots": {
+        "1": {
+          "score": 22566.654736990058,
+          "collections": 61,
+          "collected_value": 22566.654736990058,
+          "deposits": 49,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.170701026916504
+        },
+        "2": {
+          "score": 21960.751960359077,
+          "collections": 60,
+          "collected_value": 21960.751960359077,
+          "deposits": 48,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 2.011714776357015
+        }
+      }
+    },
+    {
+      "seed": 193,
+      "bots": {
+        "1": {
+          "score": 14373.513153461528,
+          "collections": 43,
+          "collected_value": 14373.513153461528,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.221271197001139
+        },
+        "2": {
+          "score": 14194.975618169065,
+          "collections": 45,
+          "collected_value": 14194.975618169065,
+          "deposits": 31,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.008826732635498
+        }
+      }
+    },
+    {
+      "seed": 194,
+      "bots": {
+        "1": {
+          "score": 18269.650757432126,
+          "collections": 55,
+          "collected_value": 18269.650757432126,
+          "deposits": 41,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.1416266759236655
+        },
+        "2": {
+          "score": 16751.345492236782,
+          "collections": 54,
+          "collected_value": 17251.34549223679,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 8,
+          "avg_ms": 1.9455711046854656
+        }
+      }
+    },
+    {
+      "seed": 195,
+      "bots": {
+        "1": {
+          "score": 13818.90233424526,
+          "collections": 46,
+          "collected_value": 13818.90233424526,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.280119260152181
+        },
+        "2": {
+          "score": 14320.303899547876,
+          "collections": 42,
+          "collected_value": 14320.303899547876,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 1,
+          "avg_ms": 2.104471524556478
+        }
+      }
+    },
+    {
+      "seed": 196,
+      "bots": {
+        "1": {
+          "score": 13822.779730312697,
+          "collections": 43,
+          "collected_value": 13822.779730312699,
+          "deposits": 29,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.100685437520345
+        },
+        "2": {
+          "score": 16695.335023913423,
+          "collections": 51,
+          "collected_value": 16695.335023913423,
+          "deposits": 36,
+          "captures": 0,
+          "invalid_actions": 5,
+          "avg_ms": 1.8303267161051433
+        }
+      }
+    },
+    {
+      "seed": 197,
+      "bots": {
+        "1": {
+          "score": 22418.846191960358,
+          "collections": 66,
+          "collected_value": 22418.846191960358,
+          "deposits": 47,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.999679406483968
+        },
+        "2": {
+          "score": 21834.587610119164,
+          "collections": 67,
+          "collected_value": 21834.587610119164,
+          "deposits": 46,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.846327781677246
+        }
+      }
+    },
+    {
+      "seed": 198,
+      "bots": {
+        "1": {
+          "score": 14201.721032573449,
+          "collections": 46,
+          "collected_value": 14201.72103257345,
+          "deposits": 30,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 2.2046446800231934
+        },
+        "2": {
+          "score": 13562.32863481018,
+          "collections": 38,
+          "collected_value": 13562.32863481018,
+          "deposits": 28,
+          "captures": 0,
+          "invalid_actions": 12,
+          "avg_ms": 2.0049365361531577
+        }
+      }
+    },
+    {
+      "seed": 199,
+      "bots": {
+        "1": {
+          "score": 21028.409582860262,
+          "collections": 65,
+          "collected_value": 21028.409582860266,
+          "deposits": 43,
+          "captures": 0,
+          "invalid_actions": 0,
+          "avg_ms": 1.8716152509053547
+        },
+        "2": {
+          "score": 23137.274479171116,
+          "collections": 69,
+          "collected_value": 23137.274479171116,
+          "deposits": 52,
+          "captures": 0,
+          "invalid_actions": 2,
+          "avg_ms": 1.7799735069274902
+        }
+      }
+    }
+  ]
+}
