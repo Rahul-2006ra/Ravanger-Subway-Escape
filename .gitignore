@@ -1,0 +1,11 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local starter origin backup
+.git_starter_origin_backup/
+
+# OS generated files
+.DS_Store
+Thumbs.db
