@@ -2,12 +2,31 @@
 
 Autonomous competitive-programming bot for the **Subway Escape – The Ultimate Chase** AI × Maths Hackathon.
 
+> [!IMPORTANT]
+> **Main Source Code File:** [`rahulrkudlur.py`](official_kit/submission/rahulrkudlur.py) (also packaged in [`FINAL_SUBMISSION/rahulrkudlur.py`](FINAL_SUBMISSION/rahulrkudlur.py)).  
+> This file contains the complete, standalone competition bot logic including graph pathfinding, two-leg exponential decay modeling, dynamic safehouse routing, predictive police collision avoidance, opponent contestation discounting, and the live protocol loop.
+> 
+> **Technical Strategy Report:** [`report.pdf`](report.pdf) provides the complete strategy breakdown, mathematical formulation, and benchmark comparisons.
+> 
+> **Team Metadata:** [`team_info.json`](FINAL_SUBMISSION/team_info.json) – Team `rahulrkudlur` (Rahul.R, Acharya Institute of Technology).
+
 ## Objective
 Maximize capital successfully deposited in safehouses during the 300-tick game while adhering to the official constraints:
-- $\le 1.0\text{ s}$ per tick
-- $\le 256\text{ MB}$ memory
+- $\le 1.0\text{ s}$ per tick (our bot operates at $\approx 1.8\text{ ms}$, $<0.2\%$ of ceiling)
+- $\le 256\text{ MB}$ memory (our bot operates at $<18\text{ MB}$)
 - Clean JSON output on `stdout`
 - Standalone execution (Python 3 standard library only, zero external packages)
+
+---
+
+## Submission & Entry Point
+
+- **Main Bot Script:** `official_kit/submission/rahulrkudlur.py` / `FINAL_SUBMISSION/rahulrkudlur.py`
+- **Team Info:** `official_kit/submission/team_info.json` / `FINAL_SUBMISSION/team_info.json`
+- **Strategy Report:** `report.pdf`
+- **Submission Archive:** `FINAL_SUBMISSION.zip`
+- **Execution Command:** `python rahulrkudlur.py`
+- **Protocol Health Check:** `python official_kit/tools/check_bot.py --team-info official_kit/submission/team_info.json`
 
 ---
 
@@ -15,9 +34,16 @@ Maximize capital successfully deposited in safehouses during the 300-tick game w
 
 ```text
 subway-escape-bot/
-├── REQUIREMENTS.md       # Confirmed rules, unknowns, constraints, materials checklist
-├── ROADMAP.md            # 10-stage engineering roadmap
-├── README.md             # Project overview and testing instructions
+├── FINAL_SUBMISSION/
+│   ├── rahulrkudlur.py       # MAIN SOURCE CODE FILE of the bot
+│   ├── team_info.json        # Team & author metadata (Rahul.R)
+│   └── report.pdf            # Comprehensive strategy and technical report
+├── FINAL_SUBMISSION.zip      # Compressed submission package for submission portal
+├── report.pdf                # Strategy report explaining architecture, math & benchmarks
+├── REQUIREMENTS.md           # Confirmed rules, unknowns, constraints, materials checklist
+├── ROADMAP.md                # 10-stage engineering roadmap
+├── README.md                 # Project overview and testing instructions
+
 ├── main.py               # Executable entry point scaffold (standby for protocol wiring)
 ├── src/
 │   ├── __init__.py

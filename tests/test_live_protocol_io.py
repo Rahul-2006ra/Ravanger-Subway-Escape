@@ -16,7 +16,8 @@ import sys
 import unittest
 
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-BOT_SCRIPT = os.path.join(ROOT_DIR, "official_kit", "submission", "my_bot.py")
+BOT_SCRIPT = os.path.join(ROOT_DIR, "official_kit", "submission", "rahulrkudlur.py")
+
 
 
 class TestLiveProtocolIO(unittest.TestCase):

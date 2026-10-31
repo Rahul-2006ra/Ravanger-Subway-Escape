@@ -1,12 +1,19 @@
 {
-  "team_name": "Ravanger",
-  "team_id": "FILL IN THE ID GIVEN BY THE ORGANISERS",
+  "team_name": "rahulrkudlur",
+  "team_id": "rahulrkudlur",
+  "members_count": 1,
   "members": [
-    { "name": "Member 1 full name", "email": "member1@example.com" },
-    { "name": "optional", "email": "NA" }
+    {
+      "name": "Rahul.R",
+      "email": "rahulrkudlur@example.com",
+      "age": 21,
+      "dob": "21/01/2006",
+      "college": "Acharya Institute of Technology, Bangalore",
+      "course": "BE in Information Science, 5th Semester"
+    }
   ],
   "language": "python",
-  "entry_file": "my_bot.py",
+  "entry_file": "rahulrkudlur.py",
   "build_command": "",
-  "run_command": "python my_bot.py"
+  "run_command": "python rahulrkudlur.py"
 }

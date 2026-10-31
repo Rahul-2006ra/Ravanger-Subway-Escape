@@ -6,30 +6,28 @@ This is the only folder you hand in. Everything the organisers need from you liv
 
 | File | What it is |
 |------|------------|
-| `team_info.json` | Your team details and how to start your bot. **Fill this in first.** |
-| your bot's source file | `my_bot.py` **or** `my_bot.cpp`, copied from `templates/` and completed by you |
-| any extra files your bot needs | only if truly needed (e.g. a helper `.py` file). Keep it small. |
+| `team_info.json` | Your team details (`rahulrkudlur`, Rahul.R) and how to start your bot. |
+| `rahulrkudlur.py` | **Main source code file of the bot.** Contains full autonomous strategy and protocol loop. |
+| `report.pdf` | Comprehensive strategy and technical report explaining the mathematical formulation. |
 
 ## Step by step
 
-1. **Pick one language** and copy its template into this folder:
+1. **Main Bot Source File:**
 
+   The primary Python file is:
    ```
-   Python :  copy templates/python/my_bot.py   ->  submission/my_bot.py
-   C++    :  copy templates/cpp/my_bot.cpp     ->  submission/my_bot.cpp
+   submission/rahulrkudlur.py
    ```
 
-   (C++ files include `json.hpp`; the build script finds it in `third_party/`, so you do not need to copy it.)
+2. **Team Configuration in `team_info.json`:**
 
-2. **Fill in `team_info.json`.**
-
-   Python team:
    ```json
    "language": "python",
-   "entry_file": "my_bot.py",
+   "entry_file": "rahulrkudlur.py",
    "build_command": "",
-   "run_command": "python my_bot.py"
+   "run_command": "python rahulrkudlur.py"
    ```
+
 
    C++ team:
    ```json
